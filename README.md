@@ -28,7 +28,7 @@
 
 AI Boxy 是本指南关联的自有服务，购买页会展示当前开放的 ChatGPT 方案、支付方式和处理说明。它不是 OpenAI 官方渠道，具体价格、可用性和售后边界以购买页实时信息为准。
 
-👉 **[查看 AI Boxy 当前方案](https://www.ai2boxy.com/zh/purchase/?utm_source=githubpages&utm_medium=guide&utm_campaign=chatgpt_plus)**
+👉 **[查看 AI Boxy 当前方案](https://www.ai2boxy.com/zh/purchase/)**
 
 ![AI Boxy ChatGPT 月卡服务页面截图](assets/ai-boxy-home.jpg)
 
@@ -158,6 +158,6 @@ Google Play 路径同样受账号地区、礼品卡来源和应用可用性影�
 - 没有海外卡、不想研究虚拟卡，可以考虑规则清楚的人民币自助服务；
 - 不要把账号密码、验证码或敏感 Session 交给任何人，也不要使用共享账号处理隐私内容。
 
-👉 **[查看 AI Boxy 当前订阅方案](https://www.ai2boxy.com/zh/purchase/?utm_source=githubpages&utm_medium=guide&utm_campaign=chatgpt_plus)**
+👉 **[查看 AI Boxy 当前订阅方案](https://www.ai2boxy.com/zh/purchase/)**
 
 > 内容说明：本文用于信息整理，不代表 OpenAI、Anthropic 或 Apple。ChatGPT、Claude 和 Apple 是其各自权利人的商标。服务可用性、价格和政策可能变化，请以官方或服务提供方的最新页面为准。

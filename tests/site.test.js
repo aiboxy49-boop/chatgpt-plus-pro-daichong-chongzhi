@@ -29,8 +29,12 @@ test('every page has description, canonical URL, viewport, and Chinese language'
   }
 })
 
-test('AI Boxy links use HTTPS and source-specific UTM tracking', () => {
-  for (const file of ['README.md', ...pages]) {
+test('AI Boxy links use safe HTTPS destinations and article tracking', () => {
+  const readme = read('README.md')
+  assert.match(readme, /https:\/\/www\.ai2boxy\.com\/zh\/purchase\//)
+  assert.doesNotMatch(readme, /\\&/)
+
+  for (const file of pages) {
     const html = read(file)
     const links = [...html.matchAll(/(https:\/\/www\.ai2boxy\.com\/zh\/purchase\/\?[^)"\s]+)/g)]
     assert.ok(links.length > 0, `${file} needs an AI Boxy purchase link`)
