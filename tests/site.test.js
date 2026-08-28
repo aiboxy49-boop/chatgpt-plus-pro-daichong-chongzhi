@@ -58,6 +58,14 @@ test('README bold labels render correctly on GitHub', () => {
   assert.doesNotMatch(markdown, /(?:^|\n)(?:-\s+)?\*\*[^*\n]+\*\*[^\s\n]/)
 })
 
+test('README explains card declines and AI Boxy support', () => {
+  const markdown = read('README.md')
+  assert.match(markdown, /卡片触发支付风控/)
+  assert.match(markdown, /扣款被拒/)
+  assert.match(markdown, /AI Boxy 在线客服/)
+  assert.match(markdown, /及时回复并继续跟进处理/)
+})
+
 test('pages avoid copied competitor branding and forbidden dash characters', () => {
   for (const file of ['README.md', ...pages]) {
     const html = read(file)
