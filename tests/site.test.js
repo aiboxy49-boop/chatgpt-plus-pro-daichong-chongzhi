@@ -53,6 +53,11 @@ test('home page discloses the commercial relationship and safety boundary', () =
   assert.match(html, /不要把 ChatGPT 密码、验证码/)
 })
 
+test('README bold labels render correctly on GitHub', () => {
+  const markdown = read('README.md')
+  assert.doesNotMatch(markdown, /(?:^|\n)(?:-\s+)?\*\*[^*\n]+\*\*[^\s\n]/)
+})
+
 test('pages avoid copied competitor branding and forbidden dash characters', () => {
   for (const file of ['README.md', ...pages]) {
     const html = read(file)
