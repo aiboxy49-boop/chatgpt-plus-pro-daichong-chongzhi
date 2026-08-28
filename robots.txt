@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aiboxy49-boop.github.io/chatgpt-plus-cn-guide/sitemap.xml
