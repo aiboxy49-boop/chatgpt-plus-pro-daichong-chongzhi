@@ -1,6 +1,24 @@
-title: ChatGPT Plus 国内订阅指南 | AI Boxy
-description: 面向国内用户的 ChatGPT Plus 订阅方式、支付流程与账号安全指南。
+title: ChatGPT / Claude 国内订阅科普指南 | AI Boxy Guide
+description: 国内 ChatGPT Plus 订阅、支付方式、账号安全与常见问题整理。
 url: https://aiboxy49-boop.github.io
 baseurl: /chatgpt-plus-cn-guide
 lang: zh-CN
 timezone: Asia/Shanghai
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README_dev.md
+  - tests
+  - package.json
