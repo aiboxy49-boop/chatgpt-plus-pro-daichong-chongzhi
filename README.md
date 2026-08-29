@@ -1,4 +1,4 @@
-# 【国内实测】订阅 ChatGPT Plus/Pro 方法与避坑指南
+# ChatGPT Plus/Pro Codex 5.6 Sol、Terra、Luna｜代充 充值 完整指南
 
 > 本文更新于 2026 年 8 月 28 日。支付规则、价格和可用地区会变化，下单前请以服务方页面为准。
 
