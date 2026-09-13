@@ -6,7 +6,7 @@ const root = path.resolve(__dirname,'..')
 
 test('README links to the public GitHub knowledge library without replacing existing guides',()=>{
   const readme = fs.readFileSync(path.join(root,'README.md'),'utf8')
-  assert.match(readme,/https:\/\/github.com\/aiboxy49-boop\/chatgpt-plus-cn-guide\/tree\/main\/knowledge/)
+  assert.match(readme,/https:\/\/github.com\/aiboxy49-boop\/chatgpt-plus-pro-daichong-chongzhi\/tree\/main\/knowledge/)
   assert.match(readme,/方法一/)
 })
 

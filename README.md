@@ -148,7 +148,7 @@ Google Play 路径同样受账号地区、礼品卡来源和应用可用性影�
 
 ## 更多专题教程
 
-- [AI Boxy 知识库：充值、套餐选购与问题排查](https://github.com/aiboxy49-boop/chatgpt-plus-cn-guide/tree/main/knowledge)
+- [AI Boxy 知识库：充值、套餐选购与问题排查](https://github.com/aiboxy49-boop/chatgpt-plus-pro-daichong-chongzhi/tree/main/knowledge)
 - [官网博客与充值指南](https://www.ai2boxy.com/zh/guides/)
 - [国内怎么订阅 ChatGPT Plus：四种方式说明](articles/chatgpt-plus-recharge.html)
 - [海外卡、礼品卡和自助服务：支付方式对比](articles/payment-options.html)
