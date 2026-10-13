@@ -7,12 +7,14 @@
 ## 文章目录
 
 - [GPT-6 免费也能用了，ChatGPT Plus 还值得开吗？2026 选购思路](guides/chatgpt-gpt-6-intelligent-ui-2026.md)
+- [ChatGPT 突然变笨了？先按这份清单排查额度、模型和账号状态](guides/chatgpt-jiangzhi-explained.md)
 - [ChatGPT 付款成功后怎么继续充值？提交信息、查单与到账确认](guides/chatgpt-paid-order-next-step.md)
 - [ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式](guides/chatgpt-payment-failed.md)
 - [ChatGPT Plus、Pro、Go 到底买哪个？2026 套餐对比与选购建议](guides/chatgpt-plans-comparison-2026.md)
 - [ChatGPT Plus 费用比较：官方直付、礼品卡、代充与共享账号成本](guides/chatgpt-plus-price-comparison.md)
 - [ChatGPT Plus 国内充值教程：付款前检查、购买步骤与到账确认](guides/chatgpt-plus-recharge.md)
 - [ChatGPT Plus 20 美元和 API 按量付费，普通人怎么选？成本拆解](guides/chatgpt-plus-vs-api-cost.md)
+- [ChatGPT Pro 100、200、500 怎么选？额度、Ultrafast 与续费说明](guides/chatgpt-pro-100-200-500.md)
 - [ChatGPT Pro 20x 暂停充值了吗？开通、续费与到期后的完整说明](guides/chatgpt-pro-20x-pause-renewal-guide.md)
 - [ChatGPT Pro 国内充值指南：适合谁、方案标识与购买检查](guides/chatgpt-pro-recharge.md)
 - [国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选](guides/chatgpt-recharge-guide.md)
