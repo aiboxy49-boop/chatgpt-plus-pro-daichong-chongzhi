@@ -7,6 +7,7 @@
 ## 文章目录
 
 - [不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题](guides/avoid-chatgpt-jiangzhi.md)
+- [ChatGPT 弹出“可疑活动警告”怎么办？Plus/Pro 账号保号指南](guides/chatgpt-account-security.md)
 - [GPT-6 免费也能用了，ChatGPT Plus 还值得开吗？2026 选购思路](guides/chatgpt-gpt-6-intelligent-ui-2026.md)
 - [ChatGPT 突然变笨了？先按这份清单排查额度、模型和账号状态](guides/chatgpt-jiangzhi-explained.md)
 - [ChatGPT 付款成功后怎么继续充值？提交信息、查单与到账确认](guides/chatgpt-paid-order-next-step.md)
@@ -18,6 +19,7 @@
 - [ChatGPT Pro 100、200、500 怎么选？额度、Ultrafast 与续费说明](guides/chatgpt-pro-100-200-500.md)
 - [ChatGPT Pro 20x 暂停充值了吗？开通、续费与到期后的完整说明](guides/chatgpt-pro-20x-pause-renewal-guide.md)
 - [ChatGPT Pro 国内充值指南：适合谁、方案标识与购买检查](guides/chatgpt-pro-recharge.md)
+- [ChatGPT 额度总不够用？Projects、记忆与模型档位的 9 个省额度用法](guides/chatgpt-projects-memory-tips.md)
 - [国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选](guides/chatgpt-recharge-guide.md)
 - [ChatGPT 代充安全吗：密码、Session、订单与退款风险检查](guides/chatgpt-recharge-safety.md)
 - [不提供账号密码，AI Boxy 如何给 ChatGPT 充值？](guides/chatgpt-recharge-without-password.md)
