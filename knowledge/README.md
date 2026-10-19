@@ -26,6 +26,7 @@
 - [国内怎么开 ChatGPT Plus？四种付款方式与本人账户充值对比](guides/chatgpt-topup-methods-compared.md)
 - [ChatGPT 套餐升级指南：Free、Plus 与 Pro 如何选择和升级](guides/chatgpt-upgrade-guide.md)
 - [Codex 充值是什么意思：套餐关系、国内购买与使用前检查](guides/codex-recharge.md)
+- [Codex 额度掉得特别快？2026 年 10 月额度异常的自查和省额度办法](guides/codex-usage-limit-draining-fast.md)
 - [GPT-5.5 10 月 14 日从 ChatGPT、Work 和 Codex 退役：迁移检查清单](guides/gpt-5-5-retirement-october-14.md)
 
 ## 内容与反馈
