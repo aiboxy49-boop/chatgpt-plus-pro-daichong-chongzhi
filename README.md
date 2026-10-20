@@ -148,6 +148,7 @@ Google Play 路径同样受账号地区、礼品卡来源和应用可用性影�
 
 ## 更多专题教程
 
+- [Claude 录屏教技能：Cowork Record a skill 使用条件、步骤与隐私说明](knowledge/claude-record-a-skill-guide.md)
 - [Claude Pro 和 ChatGPT Plus 怎么选？2026 年 10 月价格、编程工具与额度对比](knowledge/claude-pro-vs-chatgpt-plus-2026.md)
 - [AI Boxy 知识库：充值、套餐选购与问题排查](https://github.com/aiboxy49-boop/chatgpt-plus-pro-daichong-chongzhi/tree/main/knowledge)
 - [官网博客与充值指南](https://www.ai2boxy.com/zh/guides/)

@@ -6,6 +6,8 @@
 
 ## 文章目录
 
+- [Claude 录屏教技能：Cowork Record a skill 使用条件、步骤与隐私说明](claude-record-a-skill-guide.md)
+- [Claude Pro 和 ChatGPT Plus 怎么选？价格、编程工具与额度对比](claude-pro-vs-chatgpt-plus-2026.md)
 - [不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题](guides/avoid-chatgpt-jiangzhi.md)
 - [ChatGPT 弹出“可疑活动警告”怎么办？Plus/Pro 账号保号指南](guides/chatgpt-account-security.md)
 - [GPT-6 免费也能用了，ChatGPT Plus 还值得开吗？2026 选购思路](guides/chatgpt-gpt-6-intelligent-ui-2026.md)
@@ -23,6 +25,7 @@
 - [国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选](guides/chatgpt-recharge-guide.md)
 - [ChatGPT 代充安全吗：密码、Session、订单与退款风险检查](guides/chatgpt-recharge-safety.md)
 - [不提供账号密码，AI Boxy 如何给 ChatGPT 充值？](guides/chatgpt-recharge-without-password.md)
+- [ChatGPT Slides 怎么用？多人协作改 PPT、点选修改与导出指南](guides/chatgpt-slides-collaboration-guide.md)
 - [国内怎么开 ChatGPT Plus？四种付款方式与本人账户充值对比](guides/chatgpt-topup-methods-compared.md)
 - [ChatGPT 套餐升级指南：Free、Plus 与 Pro 如何选择和升级](guides/chatgpt-upgrade-guide.md)
 - [Codex 充值是什么意思：套餐关系、国内购买与使用前检查](guides/codex-recharge.md)
