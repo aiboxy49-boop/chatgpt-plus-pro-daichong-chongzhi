@@ -25,7 +25,7 @@ test('every page has description, canonical URL, viewport, and Chinese language'
     assert.match(html, /<html lang="zh-CN">/)
     assert.match(html, /name="viewport"/)
     assert.match(html, /name="description" content="[^"]{20,}"/)
-    assert.match(html, /rel="canonical" href="https:\/\/aiboxy49-boop\.github\.io\/chatgpt-plus-cn-guide\//)
+    assert.match(html, /rel="canonical" href="https:\/\/aiboxy49-boop\.github\.io\/chatgpt-plus-pro-daichong-chongzhi\//)
   }
 })
 
@@ -79,7 +79,7 @@ test('sitemap and robots point to every public page', () => {
   const robots = read('robots.txt')
   for (const file of pages) {
     const suffix = file
-    assert.match(sitemap, new RegExp(`chatgpt-plus-cn-guide/${suffix.replaceAll('.', '\\.')}`))
+    assert.match(sitemap, new RegExp(`chatgpt-plus-pro-daichong-chongzhi/${suffix.replaceAll('.', '\\.')}`))
   }
-  assert.match(robots, /Sitemap: https:\/\/aiboxy49-boop\.github\.io\/chatgpt-plus-cn-guide\/sitemap\.xml/)
+  assert.match(robots, /Sitemap: https:\/\/aiboxy49-boop\.github\.io\/chatgpt-plus-pro-daichong-chongzhi\/sitemap\.xml/)
 })

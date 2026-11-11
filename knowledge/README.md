@@ -10,6 +10,7 @@
 - [Claude Pro 和 ChatGPT Plus 怎么选？价格、编程工具与额度对比](claude-pro-vs-chatgpt-plus-2026.md)
 - [不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题](guides/avoid-chatgpt-jiangzhi.md)
 - [ChatGPT 弹出“可疑活动警告”怎么办？Plus/Pro 账号保号指南](guides/chatgpt-account-security.md)
+- [ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来](guides/chatgpt-dots-ios-reply-terra-pro.md)
 - [GPT-6 免费也能用了，ChatGPT Plus 还值得开吗？2026 选购思路](guides/chatgpt-gpt-6-intelligent-ui-2026.md)
 - [ChatGPT 突然变笨了？先按这份清单排查额度、模型和账号状态](guides/chatgpt-jiangzhi-explained.md)
 - [ChatGPT 付款成功后怎么继续充值？提交信息、查单与到账确认](guides/chatgpt-paid-order-next-step.md)
@@ -31,6 +32,8 @@
 - [Codex 充值是什么意思：套餐关系、国内购买与使用前检查](guides/codex-recharge.md)
 - [Codex 额度掉得特别快？2026 年 10 月额度异常的自查和省额度办法](guides/codex-usage-limit-draining-fast.md)
 - [GPT-5.5 10 月 14 日从 ChatGPT、Work 和 Codex 退役：迁移检查清单](guides/gpt-5-5-retirement-october-14.md)
+- [OpenAI 付款被拒？先看卡号前 6 位：11 月美国 Mastercard 商务卡扣款故障说明](guides/openai-mastercard-payment-declines-nov-2026.md)
+- [OpenAI 收购 Pierre：你在 Codex 里看的文件树和 Diff 就是它做的，接下来会变什么](guides/openai-pierre-acquisition-codex.md)
 
 ## 内容与反馈
 
