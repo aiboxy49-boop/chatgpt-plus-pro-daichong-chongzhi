@@ -6,8 +6,6 @@
 
 ## 文章目录
 
-- [Claude 录屏教技能：Cowork Record a skill 使用条件、步骤与隐私说明](claude-record-a-skill-guide.md)
-- [Claude Pro 和 ChatGPT Plus 怎么选？价格、编程工具与额度对比](claude-pro-vs-chatgpt-plus-2026.md)
 - [不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题](guides/avoid-chatgpt-jiangzhi.md)
 - [ChatGPT 弹出“可疑活动警告”怎么办？Plus/Pro 账号保号指南](guides/chatgpt-account-security.md)
 - [ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来](guides/chatgpt-dots-ios-reply-terra-pro.md)
@@ -39,4 +37,4 @@
 
 本库只包含公开教程，不收集账户登录信息、Session、卡密或订单凭证。订单问题请通过官网客服处理，不要在公开 Issue 中提交个人资料。
 
-AI Boxy 为独立第三方服务，与 OpenAI 无隶属关系。
+AI Boxy 所有套餐均为质保订阅：订阅期内遇到问题，带上订单号联系官网在线客服，客服会及时回复并持续跟进。

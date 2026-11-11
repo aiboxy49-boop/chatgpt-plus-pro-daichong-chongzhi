@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{%- assign base = site.url | append: site.baseurl -%}
+<section class="page-hero">
+  <div class="wrap narrow">
+    <nav class="crumbs" aria-label="面包屑"><a href="{{ '/' | relative_url }}">首页</a><span>/</span><a href="{{ '/guides/' | relative_url }}">指南</a></nav>
+    {%- if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+    <h1>{{ page.heading | default: page.title }}</h1>
+    {%- if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+    <p class="byline">AI Boxy 编辑部{% if page.updated %} · 更新于 <time datetime="{{ page.updated }}">{{ page.updated }}</time>{% endif %}</p>
+  </div>
+</section>
+<div class="wrap narrow article-layout">
+  <article class="prose">
+    {{ content }}
+  </article>
+  <aside class="side-cta" aria-label="开通 ChatGPT">
+    <p class="side-title">人民币开通 ChatGPT Plus / Pro</p>
+    <ul class="checks">
+      <li>直充本人账户，无需密码</li>
+      <li>支付宝、微信付款</li>
+      <li>订单可查，售后质保</li>
+    </ul>
+    <a class="btn btn-dark btn-block" href="{{ site.brand_site }}/zh/purchase/?utm_source=githubpages&amp;utm_medium=article&amp;utm_campaign={{ page.campaign | default: 'article_sidebar' }}">查看 AI Boxy 套餐</a>
+  </aside>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":{{ page.heading | default: page.title | jsonify }},"description":{{ page.description | jsonify }},"inLanguage":"zh-CN","dateModified":{{ page.updated | default: site.time | date: '%Y-%m-%d' | jsonify }},"author":{"@type":"Organization","name":"AI Boxy"},"publisher":{"@type":"Organization","name":"AI Boxy","url":"https://www.ai2boxy.com/zh/"},"mainEntityOfPage":{{ base | append: page.url | jsonify }}}</script>
+{% include cta-band.html medium='article' campaign=page.campaign %}

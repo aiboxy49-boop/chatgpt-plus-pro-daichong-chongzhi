@@ -1,0 +1,25 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/ai-boxy-logo.svg' | relative_url }}" alt="" width="32" height="32"><span class="brand-text"><strong>AI Boxy</strong><small>AI 会员订阅充值</small></span></a>
+      <p>ChatGPT Plus / Pro 直充本人账户，支付宝、微信付款，订单全程可查，售后质保。</p>
+    </div>
+    <div>
+      <h2>指南</h2>
+      <ul>
+        <li><a href="{{ '/chatgpt-plus-guide.html' | relative_url }}">国内开通 ChatGPT Plus 完整教程</a></li>
+        <li><a href="{{ '/guides/' | relative_url }}">全部充值与使用指南</a></li>
+        <li><a href="{{ '/articles/account-safety.html' | relative_url }}">充值时的账号安全</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>AI Boxy</h2>
+      <ul>
+        <li><a href="{{ site.brand_site }}/zh/?utm_source=githubpages&amp;utm_medium=footer&amp;utm_campaign=home">官网首页</a></li>
+        <li><a href="{{ site.brand_site }}/zh/purchase/?utm_source=githubpages&amp;utm_medium=footer&amp;utm_campaign=purchase">查看套餐</a></li>
+        <li><a href="mailto:{{ site.support_email }}">{{ site.support_email }}</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer-base">© {{ site.time | date: '%Y' }} AI Boxy · ChatGPT 为 OpenAI 的商标</div>
+</footer>

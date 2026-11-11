@@ -1,3 +1,7 @@
+---
+layout: null
+permalink: /robots.txt
+---
 User-agent: *
 Allow: /
 Sitemap: https://aiboxy49-boop.github.io/chatgpt-plus-pro-daichong-chongzhi/sitemap.xml

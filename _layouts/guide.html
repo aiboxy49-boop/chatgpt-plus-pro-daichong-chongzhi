@@ -1,0 +1,55 @@
+---
+layout: default
+---
+{%- assign base = site.url | append: site.baseurl -%}
+{%- assign slug = page.name | remove: '.md' -%}
+{%- assign guide = site.data.guides | where: 'slug', slug | first -%}
+<section class="page-hero">
+  <div class="wrap narrow">
+    <nav class="crumbs" aria-label="面包屑"><a href="{{ '/' | relative_url }}">首页</a><span>/</span><a href="{{ '/guides/' | relative_url }}">指南</a><span>/</span><span>{{ guide.category }}</span></nav>
+    <p class="eyebrow">{{ guide.category }}</p>
+    <h1>{{ guide.title }}</h1>
+    <p class="byline">AI Boxy 编辑部 · 更新于 <time datetime="{{ guide.date }}">{{ guide.date }}</time></p>
+  </div>
+</section>
+<div class="wrap narrow article-layout">
+  <article class="prose guide-prose">
+    {%- if guide.source_url != '' -%}
+      {%- assign body = content | split: '<p><a href="https://www.ai2boxy.com/zh/guides/' | first -%}
+    {%- else -%}
+      {%- assign body = content -%}
+    {%- endif %}
+    {{ body }}
+    {%- if guide.source_url != '' %}
+    <div class="full-link">
+      <div>
+        <p class="full-link-title">这是要点摘要，完整图文教程在 AI Boxy 官网</p>
+        <p>步骤截图、常见问题和最新说明都在原文里。</p>
+      </div>
+      <a class="btn btn-dark" href="{{ guide.cta_url }}">阅读完整指南 →</a>
+    </div>
+    {%- endif %}
+  </article>
+  <aside class="side-cta" aria-label="开通 ChatGPT">
+    <p class="side-title">人民币开通 ChatGPT Plus / Pro</p>
+    <ul class="checks">
+      <li>直充本人账户，无需密码</li>
+      <li>支付宝、微信付款</li>
+      <li>订单可查，售后质保</li>
+    </ul>
+    <a class="btn btn-dark btn-block" href="{{ site.brand_site }}/zh/?utm_source=githubpages&amp;utm_medium=guide&amp;utm_campaign=guide_sidebar#plans">查看 AI Boxy 套餐</a>
+  </aside>
+</div>
+{%- assign related = site.data.guides | where: 'category', guide.category | where_exp: 'g', 'g.slug != slug' -%}
+{%- if related.size > 0 %}
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><h2>相关指南</h2><a href="{{ '/guides/' | relative_url }}">全部指南 →</a></div>
+    <div class="grid cards-3">
+      {%- for g in related limit: 3 %}{% include guide-card.html guide=g %}{% endfor %}
+    </div>
+  </div>
+</section>
+{%- endif %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":{{ guide.title | jsonify }},"description":{{ guide.summary | truncate: 150 | jsonify }},"inLanguage":"zh-CN","dateModified":{{ guide.date | jsonify }},"author":{"@type":"Organization","name":"AI Boxy"},"publisher":{"@type":"Organization","name":"AI Boxy","url":"https://www.ai2boxy.com/zh/"}{% if guide.source_url != '' %},"isBasedOn":{{ guide.source_url | jsonify }}{% endif %}}</script>
+{% include cta-band.html medium='guide' campaign='guide_band' %}

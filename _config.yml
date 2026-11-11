@@ -1,25 +1,57 @@
-title: ChatGPT / Claude 国内订阅科普指南 | AI Boxy Guide
-description: 国内 ChatGPT Plus 订阅、支付方式、账号安全与常见问题整理。
+title: AI Boxy 指南
+description: ChatGPT Plus / Pro 国内开通与充值指南：套餐怎么选、怎么付款、到账怎么确认，AI Boxy 直充本人账户，订单可查，售后质保。
 url: https://aiboxy49-boop.github.io
 baseurl: /chatgpt-plus-pro-daichong-chongzhi
 lang: zh-CN
 timezone: Asia/Shanghai
+brand_site: https://www.ai2boxy.com
+support_email: support@ai2boxy.com
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-optional-front-matter
   - jekyll-relative-links
-  - jekyll-readme-index
   - jekyll-titles-from-headings
+
+optional_front_matter:
+  remove_originals: true
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+
+relative_links:
+  enabled: true
+  collections: false
 
 defaults:
   - scope:
       path: ""
     values:
-      layout: default
+      layout: article
+  - scope:
+      path: "knowledge"
+    values:
+      layout: guide
+      permalink: /guides/:basename/
 
 exclude:
-  - knowledge
+  - README.md
   - README_dev.md
+  - DESIGN.md
+  - PRODUCT.md
+  - docs
+  - knowledge/README.md
+  - scripts
   - tests
   - package.json
+  - package-lock.json
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - screenshots

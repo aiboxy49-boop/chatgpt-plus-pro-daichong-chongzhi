@@ -1,0 +1,32 @@
+---
+layout: default
+title: ChatGPT 充值与使用指南
+seo_title: ChatGPT 充值与使用指南：套餐、付款、到账与账号问题 | AI Boxy 指南
+description: AI Boxy 整理的 ChatGPT Plus / Pro 与 Codex 指南合集：套餐怎么选、付款失败怎么办、付款后如何到账、账号安全与最新产品动态。
+og_type: website
+permalink: /guides/
+---
+{%- assign cats = '充值与付款,套餐选择,Codex,账号与使用,产品动态' | split: ',' -%}
+<section class="page-hero">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="面包屑"><a href="{{ '/' | relative_url }}">首页</a><span>/</span><span>指南</span></nav>
+    <p class="eyebrow">AI Boxy 指南</p>
+    <h1>ChatGPT 充值与使用指南</h1>
+    <p class="lede">套餐选择、付款与到账、账号使用和最新产品动态，共 {{ site.data.guides.size }} 篇。每篇是要点摘要，完整图文教程在 AI Boxy 官网。</p>
+    <nav class="chips" aria-label="分类">
+      {%- for c in cats %}<a class="chip" href="#{{ forloop.index }}-cat">{{ c }}</a>{% endfor %}
+    </nav>
+  </div>
+</section>
+{%- for c in cats %}
+<section class="section{% cycle '', ' section-alt' %}" id="{{ forloop.index }}-cat">
+  <div class="wrap">
+    <div class="section-head"><h2>{{ c }}</h2></div>
+    <div class="grid cards-3">
+      {%- assign items = site.data.guides | where: 'category', c -%}
+      {%- for g in items %}{% include guide-card.html guide=g %}{% endfor %}
+    </div>
+  </div>
+</section>
+{%- endfor %}
+{% include cta-band.html medium='guides' campaign='guides_band' %}

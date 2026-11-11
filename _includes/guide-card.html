@@ -1,0 +1,6 @@
+<article class="card guide-card">
+  <div class="card-meta"><span class="tag">{{ include.guide.category }}</span><time datetime="{{ include.guide.date }}">{{ include.guide.date }}</time></div>
+  <h3><a href="{{ '/guides/' | append: include.guide.slug | append: '/' | relative_url }}">{{ include.guide.title }}</a></h3>
+  <p>{{ include.guide.summary | truncate: 86 }}</p>
+  <span class="card-more" aria-hidden="true">阅读要点 →</span>
+</article>

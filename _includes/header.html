@@ -1,0 +1,15 @@
+<a class="skip-link" href="#main">跳到正文</a>
+<header class="site-header">
+  <div class="wrap nav">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="AI Boxy 指南首页">
+      <img src="{{ '/assets/ai-boxy-logo.svg' | relative_url }}" alt="" width="36" height="36">
+      <span class="brand-text"><strong>AI Boxy</strong><small>ChatGPT 开通与充值指南</small></span>
+    </a>
+    <nav class="nav-links" aria-label="主导航">
+      <a href="{{ '/guides/' | relative_url }}"{% if page.url contains '/guides/' %} aria-current="page"{% endif %}>指南</a>
+      <a href="{{ '/chatgpt-plus-guide.html' | relative_url }}"{% if page.url == '/chatgpt-plus-guide.html' %} aria-current="page"{% endif %}>完整教程</a>
+      <a href="{{ '/#faq' | relative_url }}" class="hide-sm">常见问题</a>
+    </nav>
+    <a class="btn btn-lime btn-sm" href="{{ site.brand_site }}/zh/?utm_source=githubpages&amp;utm_medium=nav&amp;utm_campaign=header#plans">立即开通</a>
+  </div>
+</header>
