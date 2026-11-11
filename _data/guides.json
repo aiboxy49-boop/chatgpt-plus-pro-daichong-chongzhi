@@ -1,5 +1,20 @@
 [
   {
+    "slug": "avoid-chatgpt-jiangzhi",
+    "title": "不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题",
+    "date": "2026-11-11",
+    "summary": "减少 ChatGPT 体验波动的关键是使用自己的账号、稳定环境、合适的模型档位和清晰提示；社区方法可以按需尝试。",
+    "points": [
+      "难题手动切换到合适的推理档位，别让所有任务都消耗高档额度。",
+      "固定可信设备和网络，少切换代理、IP 和并发会话。",
+      "遇到警告时按官方安全步骤处理，不要购买共享号，也不要把密码交给任何人。"
+    ],
+    "category": "账号与使用",
+    "source_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/avoid-chatgpt-jiangzhi.md"
+  },
+  {
     "slug": "chatgpt-dots-ios-reply-terra-pro",
     "title": "ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来",
     "date": "2026-11-11",
@@ -13,6 +28,156 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-ios-reply-terra-pro/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-ios-reply-terra-pro/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-dots-ios-reply-terra-pro.md"
+  },
+  {
+    "slug": "chatgpt-jiangzhi-explained",
+    "title": "ChatGPT 突然变笨了？先按这份清单排查额度、模型和账号状态",
+    "date": "2026-11-11",
+    "summary": "“ChatGPT 降智”不是 OpenAI 已确认的技术术语；本文先排查模型档位、额度、上下文和账号警告，再把社区测试当作参考。",
+    "points": [
+      "模型、推理档位、上下文长度、工具调用和额度都会改变回答体验。",
+      "可疑活动警告可能影响部分功能，应该按官方步骤改密码、开 2FA 并退出陌生会话。",
+      "鹈鹕测试等社区方法不能替代官方模型和账户状态页面。"
+    ],
+    "category": "账号与使用",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-jiangzhi-explained.md"
+  },
+  {
+    "slug": "chatgpt-payment-failed",
+    "title": "ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式",
+    "date": "2026-11-11",
+    "summary": "付款失败后最危险的动作是连续重复提交；先分清银行拒付、账户状态、账单信息还是订单同步问题。",
+    "points": [
+      "先查看银行和官方页面的明确提示，不要在短时间连续尝试多张卡。",
+      "核对卡片类型、余额、境外线上支付、账单信息和账户地区是否符合要求。",
+      "已经扣款但订阅没更新时，先保存证据并等待订单确认，不要立即重复付款。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-payment-failed.md"
+  },
+  {
+    "slug": "chatgpt-plus-price-comparison",
+    "title": "ChatGPT Plus 费用比较：官方直付、礼品卡、代充与共享账号成本",
+    "date": "2026-11-11",
+    "summary": "真正的购买成本包含价格、汇率、支付失败、操作时间和售后，不是首页显示的一个数字。",
+    "points": [
+      "官方直付需要海外卡和匹配的账单信息，国内卡常被拒。",
+      "人民币代充的价差换来的是支付宝/微信付款、订单可查和售后质保，省下研究支付的时间。",
+      "共享账号标价低，但账户、隐私和稳定性成本最高，不适合长期使用。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-price-comparison/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-price-comparison/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plus-price-comparison.md"
+  },
+  {
+    "slug": "chatgpt-plus-recharge",
+    "title": "ChatGPT Plus 国内充值教程：付款前检查、购买步骤与到账确认",
+    "date": "2026-11-11",
+    "summary": "Plus 充值最容易出错的不是付款动作，而是账户、订阅状态和交付入口没有提前核对。",
+    "points": [
+      "先确认登录邮箱、当前套餐和到期时间，再决定是否购买。",
+      "选择代充时认准不索要密码、直充本人账户、订单可查、有售后质保的服务。",
+      "到账后在自己的 ChatGPT 账户中核对套餐和账期，一眼就能确认。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-recharge/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-recharge/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plus-recharge.md"
+  },
+  {
+    "slug": "chatgpt-pro-recharge",
+    "title": "ChatGPT Pro 国内充值指南：适合谁、方案标识与购买检查",
+    "date": "2026-11-11",
+    "summary": "Pro 面向高频使用，购买前应先证明自己确实需要更高使用余量，而不是只被“更高倍数”标签吸引。",
+    "points": [
+      "高频代码、研究或长工作流经常触及 Plus 限制时，再考虑 Pro 更合理。",
+      "AI Boxy 页面中的 Pro 5x、20x 是方案档位标识，帮助你按使用强度选择。",
+      "付款前比较实际价格、服务周期、交付条件和失败处理，不要只比较倍数名称。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-recharge/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-recharge/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-pro-recharge.md"
+  },
+  {
+    "slug": "chatgpt-recharge-guide",
+    "title": "国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选",
+    "date": "2026-11-11",
+    "summary": "没有海外信用卡时，真正要比较的不是单一价格，而是账户归属、付款条件、凭证安全、失败处理和后续售后。",
+    "points": [
+      "没有海外信用卡也能开通：人民币代充支持支付宝、微信付款，直充到你本人的账户。",
+      "选代充认准四点：直充本人账户、认证支付渠道、订单进度可查、订阅期内售后质保。",
+      "共享账户会暴露聊天记录和文件，不适合工作、学习或任何含隐私的场景。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-recharge-guide.md"
+  },
+  {
+    "slug": "chatgpt-recharge-safety",
+    "title": "ChatGPT 代充安全吗：密码、Session、订单与退款安全检查",
+    "date": "2026-11-11",
+    "summary": "选对代充很安心：认准无需提供账号密码、直充本人账户、订单进度全程可查、订阅期间有售后质保的渠道。",
+    "points": [
+      "不要向陌生客服提供 ChatGPT 长期密码、验证码、恢复邮箱或 API Key。",
+      "临时 Session 也是敏感凭证，只能用于确认过的域名和单次订单。",
+      "订单、退款、隐私与联系方式在付款前可见，比口头承诺更重要。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-safety/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-safety/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-recharge-safety.md"
+  },
+  {
+    "slug": "chatgpt-slides-collaboration-guide",
+    "title": "ChatGPT Slides 怎么用？多人协作改 PPT、点选修改与导出指南",
+    "date": "2026-11-11",
+    "summary": "ChatGPT Slides 在 Space 中支持从对话和文件生成幻灯片、多人同时编辑、评论及点选 Request edits 修改；网页端可导出 PowerPoint、PDF 和 Google Slides。使用前需确认账号已启用 Space，不能把升级套餐当作必然获得入口的保证。",
+    "points": [
+      "先确认账号已启用 Space；找不到入口时检查账号、工作区和客户端，不要只凭套餐名称判断。",
+      "可直接编辑文字、图片、形状、表格和图表，也能选中元素后用 Request edits 提出修改。",
+      "幻灯片目前支持查看和编辑权限，暂无单独的仅评论角色；网页端可导出 PowerPoint、PDF 和 Google Slides。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-slides-collaboration-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-slides-collaboration-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-slides-collaboration-guide.md"
+  },
+  {
+    "slug": "chatgpt-topup-methods-compared",
+    "title": "国内怎么开 ChatGPT Plus？四种付款方式与本人账户充值对比",
+    "date": "2026-11-11",
+    "summary": "国内开通 ChatGPT Plus/Pro 时，对比海外卡、礼品卡、虚拟卡和本人账户充值四种路径，并强调订单、凭证、退款和密码边界。",
+    "points": [
+      "官网绑卡和外区礼品卡门槛高，国内卡经常被拒。",
+      "代充选直充本人账户、认证支付渠道、订单可查、有售后质保的服务。",
+      "任何要求长期密码、邮箱密码、验证码或 2FA 恢复码的流程都应暂停。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-topup-methods-compared/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-topup-methods-compared/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-topup-methods-compared.md"
+  },
+  {
+    "slug": "codex-recharge",
+    "title": "Codex 充值是什么意思：套餐关系、国内购买与使用前检查",
+    "date": "2026-11-11",
+    "summary": "“Codex 充值”通常不是给单个模型充余额，而是为能够使用 Codex 的账户准备合适订阅并确认功能已经开放。",
+    "points": [
+      "先确认自己的目标是使用 Codex 产品能力，而不是寻找不存在的单模型余额。",
+      "Codex 的可用性与账户套餐、地区、产品入口和当时开放策略有关。",
+      "购买 ChatGPT 套餐前，应查看最新官方说明和目标账户实际状态。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-recharge/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-recharge/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-recharge.md"
   },
   {
     "slug": "openai-mastercard-payment-declines-nov-2026",
@@ -43,21 +208,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/openai-pierre-acquisition-codex/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/openai-pierre-acquisition-codex/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/openai-pierre-acquisition-codex.md"
-  },
-  {
-    "slug": "chatgpt-slides-collaboration-guide",
-    "title": "ChatGPT Slides 怎么用？多人协作改 PPT、点选修改与导出指南",
-    "date": "2026-10-20",
-    "summary": "ChatGPT Slides 在 Space 中支持从对话和文件生成幻灯片、多人同时编辑、评论及点选 Request edits 修改；网页端可导出 PowerPoint、PDF 和 Google Slides。使用前需确认账号已启用 Space，不能把升级套餐当作必然获得入口的保证。",
-    "points": [
-      "先确认账号已启用 Space；找不到入口时检查账号、工作区和客户端，不要只凭套餐名称判断。",
-      "可直接编辑文字、图片、形状、表格和图表，也能选中元素后用 Request edits 提出修改。",
-      "幻灯片目前支持查看和编辑权限，暂无单独的仅评论角色；网页端可导出 PowerPoint、PDF 和 Google Slides。"
-    ],
-    "category": "产品动态",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-slides-collaboration-guide/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-slides-collaboration-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-slides-collaboration-guide.md"
   },
   {
     "slug": "codex-usage-limit-draining-fast",
@@ -103,51 +253,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-projects-memory-tips/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-projects-memory-tips/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-projects-memory-tips.md"
-  },
-  {
-    "slug": "avoid-chatgpt-jiangzhi",
-    "title": "不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题",
-    "date": "2026-10-14",
-    "summary": "减少 ChatGPT 体验波动的关键是使用自己的账号、稳定环境、合适的模型档位和清晰提示；社区方法可以按需尝试。",
-    "points": [
-      "难题手动切换到合适的推理档位，别让所有任务都消耗高档额度。",
-      "固定可信设备和网络，少切换代理、IP 和并发会话。",
-      "遇到警告时按官方安全步骤处理，不要购买共享号或把密码交给第三方。"
-    ],
-    "category": "账号与使用",
-    "source_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/avoid-chatgpt-jiangzhi.md"
-  },
-  {
-    "slug": "chatgpt-topup-methods-compared",
-    "title": "国内怎么开 ChatGPT Plus？四种付款方式与本人账户充值对比",
-    "date": "2026-10-14",
-    "summary": "国内开通 ChatGPT Plus/Pro 时，对比海外卡、礼品卡、虚拟卡和本人账户充值四种路径，并强调订单、凭证、退款和密码边界。",
-    "points": [
-      "有合适海外支付方式时，官方页面直付链路最直接。",
-      "第三方服务要确认充值到本人账户、支付渠道认证、订单可查询和退款规则。",
-      "任何要求长期密码、邮箱密码、验证码或 2FA 恢复码的流程都应暂停。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-topup-methods-compared/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-topup-methods-compared/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-topup-methods-compared.md"
-  },
-  {
-    "slug": "chatgpt-jiangzhi-explained",
-    "title": "ChatGPT 突然变笨了？先按这份清单排查额度、模型和账号状态",
-    "date": "2026-10-13",
-    "summary": "“ChatGPT 降智”不是 OpenAI 已确认的技术术语；本文先排查模型档位、额度、上下文和账号警告，再把社区测试当作参考。",
-    "points": [
-      "模型、推理档位、上下文长度、工具调用和额度都会改变回答体验。",
-      "可疑活动警告可能影响部分功能，应该按官方步骤改密码、开 2FA 并退出陌生会话。",
-      "鹈鹕测试等社区方法不能替代官方模型和账户状态页面。"
-    ],
-    "category": "账号与使用",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-jiangzhi-explained.md"
   },
   {
     "slug": "chatgpt-pro-100-200-500",
@@ -283,110 +388,5 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-upgrade-guide/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-upgrade-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-upgrade-guide.md"
-  },
-  {
-    "slug": "chatgpt-payment-failed",
-    "title": "ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式",
-    "date": "2026-08-30",
-    "summary": "付款失败后最危险的动作是连续重复提交；先分清银行拒付、账户状态、账单信息还是订单同步问题。",
-    "points": [
-      "先查看银行和官方页面的明确提示，不要在短时间连续尝试多张卡。",
-      "核对卡片类型、余额、境外线上支付、账单信息和账户地区是否符合要求。",
-      "已经扣款但订阅没更新时，先保存证据并等待订单确认，不要立即重复付款。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-payment-failed.md"
-  },
-  {
-    "slug": "chatgpt-plus-recharge",
-    "title": "ChatGPT Plus 国内充值教程：付款前检查、购买步骤与到账确认",
-    "date": "2026-08-30",
-    "summary": "Plus 充值最容易出错的不是付款动作，而是账户、订阅状态和交付入口没有提前核对。",
-    "points": [
-      "先确认登录邮箱、当前套餐和到期时间，再决定是否购买。",
-      "使用第三方服务时，优先选择不索要长期密码、订单可查且退款边界公开的流程。",
-      "到账后在自己的 ChatGPT 账户中核对套餐和账期，订单成功提示不能替代账户侧验证。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-recharge/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-recharge/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plus-recharge.md"
-  },
-  {
-    "slug": "chatgpt-recharge-guide",
-    "title": "国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选",
-    "date": "2026-08-30",
-    "summary": "没有海外信用卡时，真正要比较的不是单一价格，而是账户归属、付款条件、凭证安全、失败处理和后续售后。",
-    "points": [
-      "有稳定、合规的海外支付方式时，优先考虑在 ChatGPT 官方页面直接订阅。",
-      "没有海外卡且希望使用本人账户，可比较支持人民币付款、订单查询、认证支付渠道和明确售后的第三方服务。",
-      "共享账户会暴露聊天记录和文件，不适合工作、学习或任何含隐私的场景。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-recharge-guide.md"
-  },
-  {
-    "slug": "chatgpt-recharge-safety",
-    "title": "ChatGPT 代充安全吗：密码、Session、订单与退款风险检查",
-    "date": "2026-08-30",
-    "summary": "选对代充很安心：认准无需提供账号密码、直充本人账户、订单进度全程可查、订阅期间有售后质保的渠道。",
-    "points": [
-      "不要向陌生客服提供 ChatGPT 长期密码、验证码、恢复邮箱或 API Key。",
-      "临时 Session 也是敏感凭证，只能用于确认过的域名和单次订单。",
-      "订单、退款、隐私与联系方式在付款前可见，比口头承诺更重要。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-safety/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-safety/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-recharge-safety.md"
-  },
-  {
-    "slug": "chatgpt-plus-price-comparison",
-    "title": "ChatGPT Plus 费用比较：官方直付、礼品卡、代充与共享账号成本",
-    "date": "2026-08-29",
-    "summary": "真正的购买成本包含价格、汇率、支付失败、操作时间、隐私风险和售后，不是首页显示的一个数字。",
-    "points": [
-      "官方直付通常链路最短，但需要满足海外卡和账单条件。",
-      "第三方服务的价差应换来人民币付款、订单追踪和售后，而不是只有收款入口。",
-      "共享账号标价低，但账户、隐私和稳定性成本最高，不适合长期使用。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-price-comparison/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-price-comparison/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plus-price-comparison.md"
-  },
-  {
-    "slug": "chatgpt-pro-recharge",
-    "title": "ChatGPT Pro 国内充值指南：适合谁、方案标识与购买检查",
-    "date": "2026-08-29",
-    "summary": "Pro 面向高频使用，购买前应先证明自己确实需要更高使用余量，而不是只被“更高倍数”标签吸引。",
-    "points": [
-      "高频代码、研究或长工作流经常触及 Plus 限制时，再考虑 Pro 更合理。",
-      "AI Boxy 页面中的 Pro 5x、20x 是服务方案标识，不应理解成永久固定的官方额度承诺。",
-      "付款前比较实际价格、服务周期、交付条件和失败处理，不要只比较倍数名称。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-recharge/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-recharge/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-pro-recharge.md"
-  },
-  {
-    "slug": "codex-recharge",
-    "title": "Codex 充值是什么意思：套餐关系、国内购买与使用前检查",
-    "date": "2026-08-29",
-    "summary": "“Codex 充值”通常不是给单个模型充余额，而是为能够使用 Codex 的账户准备合适订阅并确认功能已经开放。",
-    "points": [
-      "先确认自己的目标是使用 Codex 产品能力，而不是寻找不存在的单模型余额。",
-      "Codex 的可用性与账户套餐、地区、产品入口和当时开放策略有关。",
-      "购买 ChatGPT 套餐前，应查看最新官方说明和目标账户实际状态。"
-    ],
-    "category": "Codex",
-    "source_url": "https://www.ai2boxy.com/zh/guides/codex-recharge/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-recharge/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/codex-recharge.md"
   }
 ]

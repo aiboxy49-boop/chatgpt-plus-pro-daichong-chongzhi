@@ -1,6 +1,6 @@
 # ChatGPT Slides 怎么用？多人协作改 PPT、点选修改与导出指南
 
-更新于 2026-10-20 · AI Boxy
+更新于 2026-11-11 · AI Boxy
 
 ChatGPT Slides 在 Space 中支持从对话和文件生成幻灯片、多人同时编辑、评论及点选 Request edits 修改；网页端可导出 PowerPoint、PDF 和 Google Slides。使用前需确认账号已启用 Space，不能把升级套餐当作必然获得入口的保证。
 

@@ -22,7 +22,7 @@
 - [ChatGPT Pro 国内充值指南：适合谁、方案标识与购买检查](guides/chatgpt-pro-recharge.md)
 - [ChatGPT 额度总不够用？Projects、记忆与模型档位的 9 个省额度用法](guides/chatgpt-projects-memory-tips.md)
 - [国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选](guides/chatgpt-recharge-guide.md)
-- [ChatGPT 代充安全吗：密码、Session、订单与退款风险检查](guides/chatgpt-recharge-safety.md)
+- [ChatGPT 代充安全吗：密码、Session、订单与退款安全检查](guides/chatgpt-recharge-safety.md)
 - [不提供账号密码，AI Boxy 如何给 ChatGPT 充值？](guides/chatgpt-recharge-without-password.md)
 - [ChatGPT Slides 怎么用？多人协作改 PPT、点选修改与导出指南](guides/chatgpt-slides-collaboration-guide.md)
 - [国内怎么开 ChatGPT Plus？四种付款方式与本人账户充值对比](guides/chatgpt-topup-methods-compared.md)
