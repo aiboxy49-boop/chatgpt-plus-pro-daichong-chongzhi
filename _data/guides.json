@@ -1,5 +1,50 @@
 [
   {
+    "slug": "chatgpt-finances-desktop-widgets",
+    "title": "ChatGPT 记账理财功能 Finances 上了桌面版，还能自己搭“小组件”：功能、限制和替代用法",
+    "date": "2026-11-12",
+    "summary": "2026-11-11 ChatGPT 官方账号宣布 Finances 进入桌面 App，可找省钱方式、了解消费、理解投资，并可构建自定义财务工具；面向美国 Free、Go、Plus、Pro 用户，需更新桌面 App。9to5Mac 报道其支持每周财务报告、股票关注与语音。Sulat 报道官方演示中 ChatGPT 构建了 Spending、Wealth、College savings 三个桌面小组件，并指出帮助中心当时仍写 Finances 适用于网页、iOS、Android。帮助中心列出的仪表盘小组件包括分类消费、本月消费、待付款项、订阅、账单、净资产、投资分布、行情、信用分；银行与券商账户通过 Plaid 连接，信用报告通过 Experian 单独连接。",
+    "points": [
+      "11 月 11 日起，Finances 可以在 ChatGPT 桌面 App 里用了，更新 App 后在侧边栏打开。",
+      "新玩法是让 ChatGPT 按你的数据搭小组件，官方演示做了消费、资产和教育储蓄三个。",
+      "目前只对美国用户开放；国内用户可以导出账单，让 ChatGPT 做同类分析。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-finances-desktop-widgets/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-finances-desktop-widgets/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-finances-desktop-widgets.md"
+  },
+  {
+    "slug": "chatgpt-login-outage-nov-12",
+    "title": "ChatGPT 11 月 12 日凌晨登录、注册故障：约 9 分钟恢复，再遇到登不上先查这几处",
+    "date": "2026-11-12",
+    "summary": "OpenAI 状态页事件 Elevated errors affecting logins, sign-ups, and ChatGPT features：2026-11-11 20:43 UTC（北京时间 11-12 04:43）开始调查登录、注册、work mode、dots、sites、spaces 故障，20:50 UTC 补充 OpenAI API 创建对话错误率升高，20:52 UTC（北京时间 04:52）宣布全部恢复。随后 22:50 UTC（北京时间 06:50）另报 Unable to start new Workspace Agent runs，截至北京时间 08:50 仍在调查。帮助中心 Why can't I log in to ChatGPT? 建议：通用错误先等 60 秒重试并查看 status.openai.com，无故障再清缓存与 Cookie、用无痕窗口、换设备/网络/浏览器、停用扩展；Cloudflare 验证循环需暂停个人 VPN/代理、允许 chatgpt.com、openai.com、auth.openai.com 的 Cookie 与 JavaScript；可疑登录提示需等待最多 1 小时再试；联系支持时附完整错误与 request ID。",
+    "points": [
+      "北京时间 11 月 12 日 04:43 左右，登录、注册和 Work、dots 等功能报故障，04:52 恢复。",
+      "早上 06:50 另有一条 Workspace Agent 无法启动新任务的事件，主要影响团队工作区。",
+      "以后登不上：先看状态页，再按清缓存、无痕窗口、换网络、核对登录方式的顺序排查。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-login-outage-nov-12/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-login-outage-nov-12/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-login-outage-nov-12.md"
+  },
+  {
+    "slug": "codex-steer-vs-queue-follow-up",
+    "title": "Codex 更新后发消息直接打断任务？是“追加消息”默认改成了 Steer，改回 Queue 只要一步",
+    "date": "2026-11-12",
+    "summary": "社区精华：整理自 linux.do 帖子《GPT更新以后把队列砍了？》（https://linux.do/t/topic/3144144，2026-11-09）。楼主发现 Codex 更新后，任务进行中发送的下一步指令会直接中断并插入当前任务；回帖指出默认变为 Steer（引导），可在设置里搜索 queue 改回 Queue（排队），也有人反映更新后偶尔被改回默认。官方核对：ChatGPT Learn 设置文档写明 General 下 Follow-up behavior 可选择任务运行中发送的消息是引导当前运行还是等待下一轮；Codex CLI 0.163.0（2026-10-15）说明在 Codex 回复时发送追加消息会立即引导；ChatGPT iOS 1.2026.300（2026-11-02）说明追加消息默认引导正在运行的任务，除非已保存其他偏好。",
+    "points": [
+      "社区精华：linux.do 网友发现更新后“队列没了”，其实是追加消息默认改成了 Steer。",
+      "在设置的 General 里找 Follow-up behavior，就能改回 Queue（排队等下一轮）。",
+      "想纠偏用 Steer，想排好下一步再走用 Queue；更新后最好回设置看一眼。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-steer-vs-queue-follow-up/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-steer-vs-queue-follow-up/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-steer-vs-queue-follow-up.md"
+  },
+  {
     "slug": "avoid-chatgpt-jiangzhi",
     "title": "不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题",
     "date": "2026-11-11",
