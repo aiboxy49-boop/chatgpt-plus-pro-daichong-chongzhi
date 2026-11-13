@@ -1,5 +1,50 @@
 [
   {
+    "slug": "chatgpt-dots-custom-instructions-rules",
+    "title": "ChatGPT dots 能听你的规矩了：自定义指令和自定义规则怎么设，一次讲清",
+    "date": "2026-11-13",
+    "summary": "2026-11-12 20:04 UTC（北京时间 11 月 13 日 04:04），ChatGPT 官方 X 账号宣布 dots 回复更快、更少术语、执行更到位，并且可以遵循自定义指令：可以在对话里直接告诉 dot 怎么做事、哪些动作要先征得同意，也可以在手机端 Customize > Behavior 或网页/桌面端 dot 的菜单里设置。官方文档《Control your dot》说明：自定义指令管写作风格、汇报频率等偏好，与 ChatGPT 本身的自定义指令分开；自定义规则（桌面/网页在 Settings > Personalization > Custom rules）针对具体动作，四种选项为不问直接做、你说了才做、先问再做、交给你做；指令和规则都不能授予应用或电脑权限、不能绕过内置安全要求。dots 目前面向 18 岁以上的 Pro 用户（不含欧洲经济区、瑞士、英国）和符合条件的 Business Premium 等工作区。",
+    "points": [
+      "dots 现在会遵循自定义指令，官方说回复更快、术语更少。",
+      "自定义指令管它怎么做事，自定义规则管某个动作要不要先问你。",
+      "dots 目前主要开放给 Pro 个人用户和部分企业工作区。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-custom-instructions-rules/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-custom-instructions-rules/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-dots-custom-instructions-rules.md"
+  },
+  {
+    "slug": "chatgpt-image-generation-errors-nov-12",
+    "title": "11 月 12 日下午 GPT Image 出图报错约 33 分钟：图片生成失败时先查这 5 步",
+    "date": "2026-11-13",
+    "summary": "OpenAI 状态页记录：2026-11-12 08:52 UTC（北京时间 16:52）确认 GPT-image-2.5 Sunburst 和 Flare 错误率升高，08:58 UTC 扩大到 2.6 Sunburst / Flare，09:18 UTC 已缓解并观察，09:25 UTC（北京时间 17:25）宣布恢复正常，前后约 33 分钟。官方帮助中心《Images in ChatGPT》说明：ChatGPT Images 面向所有套餐，Plus、Pro、Business 可用带思考的图片生成；出图可能需要几分钟，生成期间可以继续使用 ChatGPT；所有生成的图片都保存在侧边栏 Images 里。排查顺序：查 status.openai.com、刷新后新开对话重试、换网络或关闭插件、检查是否碰到额度或内容提示、去 Images 里看图是否其实已经生成。",
+    "points": [
+      "11 月 12 日 16:52–17:25（北京时间），GPT Image 2.5 和 2.6 错误率升高，约 33 分钟后恢复。",
+      "出图失败先看 OpenAI 状态页，有故障就等，别反复重试。",
+      "没有故障再查网络、浏览器插件、额度提示，以及侧边栏 Images 里是不是已经出图。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-image-generation-errors-nov-12/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-image-generation-errors-nov-12/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-image-generation-errors-nov-12.md"
+  },
+  {
+    "slug": "codex-banked-reset-how-to-use",
+    "title": "Codex 重置卡到账了怎么用？额度剩不到 80% 才能兑，用之前先看清这 4 点",
+    "date": "2026-11-13",
+    "summary": "2026-11-12 21:59 UTC（北京时间 11 月 13 日 05:59），Codex 负责人 Tibo 在 X 上宣布 banked reset（重置卡）已激活、将陆续发到付费账号。按 OpenAI 帮助中心《How resets work in Codex》：重置卡到账不会刷新用量，需要手动兑换；桌面 App 在 Settings > Usage & billing，网页在 Usage settings，CLI 输入 /usage 选 Redeem reset，手机 App 不支持；至少一项覆盖额度剩余低于 80% 才能兑换；Plus 和 Business Standard 恢复 5 小时与每周额度，Pro 100/200/500 恢复每周额度，Go 恢复月额度；兑换后刷新时间会按新周期重新计算，不影响订阅扣费日；图片生成、文件上传、语音等单独额度不受影响；过期或误用不补发。",
+    "points": [
+      "重置卡到账只是存进账户，不会自动刷新额度，要自己去用量设置里兑换。",
+      "至少一项额度剩余低于 80% 才能兑；兑换后下一次刷新时间会跟着变。",
+      "过期、误用官方都不补，建议等额度真快见底再用。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-banked-reset-how-to-use/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-banked-reset-how-to-use/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-banked-reset-how-to-use.md"
+  },
+  {
     "slug": "chatgpt-finances-desktop-widgets",
     "title": "ChatGPT 记账理财功能 Finances 上了桌面版，还能自己搭“小组件”：功能、限制和替代用法",
     "date": "2026-11-12",
