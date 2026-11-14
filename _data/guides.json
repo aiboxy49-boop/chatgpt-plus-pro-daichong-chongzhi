@@ -1,5 +1,50 @@
 [
   {
+    "slug": "chatgpt-sites-publishing-failed-nov-13",
+    "title": "ChatGPT Sites 网站发布失败？11 月 13 日中午约 2 小时故障已恢复，附发布和分享的正确步骤",
+    "date": "2026-11-14",
+    "summary": "OpenAI 状态页记录事件 Sites: Publishing failing：2026-11-13 03:59 UTC（北京时间 11:59）确认用户在受影响服务上遇到错误率升高并开始处理，05:55 UTC（北京时间 13:55）宣布恢复正常，前后约 1 小时 56 分钟。官方帮助中心《Creating and using ChatGPT Sites》说明：Sites 面向 ChatGPT Plus、Pro 以及 Business、Enterprise 工作区，可在网页和桌面端创建；网页选 Work，桌面端选 ChatGPT 再选 Work 或 Codex，提示词里写 website 或 @Sites；部署后生成网址，新 Site 默认只有所有者和工作区管理员能看，要在 Share 的 Who has access 里选择访问范围并保存；Anyone on the internet 只在允许公开发布时出现，Enterprise 工作区默认关闭公开发布、需管理员开启。ChatGPT Learn《Publish and share》说明更新流程：在 ChatGPT 里描述修改、检查结果、保存版本再部署，然后到正式网址核对。",
+    "points": [
+      "11 月 13 日 11:59–13:55（北京时间），ChatGPT Sites 发布失败，约 2 小时后恢复。",
+      "新 Site 默认是私有的，部署成功后还要在 Share 里选访问范围并保存。",
+      "发布不成功先看状态页，再查账号、工作区设置和公开发布权限。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-sites-publishing-failed-nov-13/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-sites-publishing-failed-nov-13/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-sites-publishing-failed-nov-13.md"
+  },
+  {
+    "slug": "chatgpt-wallet-dots-pro-purchases",
+    "title": "ChatGPT Wallet 上线：dots 能替你下单付款了，谁能用、怎么付、和会员扣费有没有关系",
+    "date": "2026-11-14",
+    "summary": "OpenAI 于 2026-11-13（美国时间）发布 ChatGPT Wallet，与 American Express、Mastercard、Visa 合作，让 dots 在用户逐笔批准后代为付款。流程：先保存一张卡，每次付款前核对商家、商品、总价和所选卡，再用 Face ID、Touch ID 等生物识别批准；支付网络生成付款令牌（替代卡号、安全码和有效期）完成扣款，真实卡号不交给商家或智能体，原卡的积分和符合条件的争议保障保留。帮助中心《Making purchases with ChatGPT Wallet》写明：逐步开放给 18 岁以上、住在美国、持美国发行的 American Express、Chase、Mastercard、Visa 信用卡且账单地址在美国的 Pro 用户；只在和 dot 的对话里可用，Chat、Work 和独立 Codex 线程不支持；不支持借记卡，首发不支持虚拟卡；Wallet 里的卡与 ChatGPT 订阅付款方式、礼品卡或预付余额分开；Ready to check out 只代表批准完成，不代表商家已下单。官方计划以后支持设置消费上限、品类和时间段来预先授权。",
+    "points": [
+      "ChatGPT Wallet 让 dots 在你逐笔确认后替你付款，商家和智能体拿不到真实卡号。",
+      "首批只开放给美国 18 岁以上的 Pro 用户，需要美国发行的信用卡和美国账单地址。",
+      "Wallet 里的卡和 ChatGPT 会员扣费是两套东西，开不开 Wallet 都不影响订阅。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-wallet-dots-pro-purchases/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-wallet-dots-pro-purchases/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-wallet-dots-pro-purchases.md"
+  },
+  {
+    "slug": "codex-stops-early-long-tasks-fix",
+    "title": "Codex 长任务改几个文件就停下来汇报？用 /goal、AGENTS.md 和新对话让它一口气做完一个阶段",
+    "date": "2026-11-14",
+    "summary": "按 OpenAI 官方文档整理 Codex 长任务的做法。ChatGPT Learn《Long-running work》：多步骤工作要给出明确结果、约束和完成标准；在 ChatGPT 桌面 App、Codex CLI 和 IDE 扩展里输入 /goal 启动 Goal 模式，目标文字既是第一条提示也是完成标准，可暂停、恢复、编辑、清除；需要决定时会暂停，沙箱和审批策略不变；目标不清楚时先用 /plan。Codex 配置参考：features.goals（持久目标和自动继续）为稳定功能、默认开启；model_auto_compact_token_limit 控制自动压缩阈值。CLI 命令文档：/compact 用摘要替换早期对话释放上下文，/new 和 /clear 开新对话，/fork 复制当前对话，/status 查看上下文用量，/init 生成 AGENTS.md。AGENTS.md 文档：Codex 每次开工前读取全局 ~/.codex/AGENTS.md 和项目内 AGENTS.md。Best practices：提示词写清 Goal、Context、Constraints、Done when；一个连贯的工作单元用一个对话。Troubleshooting：对话卡住时先看是否在等审批，再用更小、更聚焦的提示开新对话。Codex CLI 0.169.0 changelog：计划模式选 Yes, clear context and implement 会把完整计划交给新会话。截至北京时间 2026-11-14 09:00，OpenAI 状态页未登记 11 月 13–14 日的 Codex 故障。",
+    "points": [
+      "Codex 中途停下多半是任务没写清完成标准、在等审批，或对话太长触发了上下文压缩。",
+      "用 /goal 写清「做到什么算完」，把「做完整个阶段再汇报」写进 AGENTS.md。",
+      "遇到 remote compact 报错或对话越来越慢，让它写交接摘要，开新对话接着做。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-stops-early-long-tasks-fix/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-stops-early-long-tasks-fix/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-stops-early-long-tasks-fix.md"
+  },
+  {
     "slug": "chatgpt-dots-custom-instructions-rules",
     "title": "ChatGPT dots 能听你的规矩了：自定义指令和自定义规则怎么设，一次讲清",
     "date": "2026-11-13",
