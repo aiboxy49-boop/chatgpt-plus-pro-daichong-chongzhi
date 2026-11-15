@@ -1,5 +1,35 @@
 [
   {
+    "slug": "chatgpt-billing-checkout-errors-nov-14",
+    "title": "ChatGPT 结账报错、付不了款？11 月 14 日中午账单故障已恢复，扣了钱没到账先别重复买",
+    "date": "2026-11-15",
+    "summary": "故障已经过去了。当时没付成的，现在可以重新付；扣了钱却没开通的，先查账号，别急着再买一次。",
+    "points": [
+      "北京时间 11 月 14 日 12:11–13:27，OpenAI 状态页记录了 ChatGPT 账单和结账报错，现已恢复。",
+      "扣了钱但还是 Free，先登录原来付款的账号确认，核查期间别再下单，避免重复扣费。",
+      "卡被拒、提示卡或设备超限、续费失败，是三种不同情况，处理方法也不一样。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-billing-checkout-errors-nov-14/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-billing-checkout-errors-nov-14/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-billing-checkout-errors-nov-14.md"
+  },
+  {
+    "slug": "chatgpt-plus-free-trial-app-store-billing",
+    "title": "ChatGPT Plus 免费试用怎么领？先确认结账页显示 $0，网页和 App 内购的扣费规则不一样",
+    "date": "2026-11-15",
+    "summary": "看到「Plus 免费一个月」别急着点。先看结账页是不是 $0，再想清楚在哪儿付，因为取消和退款都要回到付款的那个地方。",
+    "points": [
+      "Plus 没有人人都能领的免费试用，优惠由 OpenAI 按活动发给部分账号，付款前要看到结账页显示 $0。",
+      "在 App 里订阅走的是 Apple 或 Google 结账：按当地货币扣费，取消要去商店，Apple 的退款找 Apple。",
+      "没拿到试用却扣了全价，先截图留证，再按付款平台找对应的客服；别在别的平台再订一次。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-free-trial-app-store-billing/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-free-trial-app-store-billing/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plus-free-trial-app-store-billing.md"
+  },
+  {
     "slug": "chatgpt-sites-publishing-failed-nov-13",
     "title": "ChatGPT Sites 网站发布失败？11 月 13 日中午约 2 小时故障已恢复，附发布和分享的正确步骤",
     "date": "2026-11-14",

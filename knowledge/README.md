@@ -8,6 +8,7 @@
 
 - [不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题](guides/avoid-chatgpt-jiangzhi.md)
 - [ChatGPT 弹出“可疑活动警告”怎么办？Plus/Pro 账号保号指南](guides/chatgpt-account-security.md)
+- [ChatGPT 结账报错、付不了款？11 月 14 日中午账单故障已恢复，扣了钱没到账先别重复买](guides/chatgpt-billing-checkout-errors-nov-14.md)
 - [ChatGPT dots 能听你的规矩了：自定义指令和自定义规则怎么设，一次讲清](guides/chatgpt-dots-custom-instructions-rules.md)
 - [ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来](guides/chatgpt-dots-ios-reply-terra-pro.md)
 - [ChatGPT 记账理财功能 Finances 上了桌面版，还能自己搭“小组件”：功能、限制和替代用法](guides/chatgpt-finances-desktop-widgets.md)
@@ -18,6 +19,7 @@
 - [ChatGPT 付款成功后怎么继续充值？提交信息、查单与到账确认](guides/chatgpt-paid-order-next-step.md)
 - [ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式](guides/chatgpt-payment-failed.md)
 - [ChatGPT Plus、Pro、Go 到底买哪个？2026 套餐对比与选购建议](guides/chatgpt-plans-comparison-2026.md)
+- [ChatGPT Plus 免费试用怎么领？先确认结账页显示 $0，网页和 App 内购的扣费规则不一样](guides/chatgpt-plus-free-trial-app-store-billing.md)
 - [ChatGPT Plus 费用比较：官方直付、礼品卡、代充与共享账号成本](guides/chatgpt-plus-price-comparison.md)
 - [ChatGPT Plus 国内充值教程：付款前检查、购买步骤与到账确认](guides/chatgpt-plus-recharge.md)
 - [ChatGPT Plus 20 美元和 API 按量付费，普通人怎么选？成本拆解](guides/chatgpt-plus-vs-api-cost.md)
