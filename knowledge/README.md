@@ -8,6 +8,7 @@
 
 - [不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题](guides/avoid-chatgpt-jiangzhi.md)
 - [ChatGPT 弹出“可疑活动警告”怎么办？Plus/Pro 账号保号指南](guides/chatgpt-account-security.md)
+- [ChatGPT 广告在 44 个国家开放本地代理投放：Free 和 Go 会看到广告，Plus 起没有](guides/chatgpt-ads-free-go-plus-ad-free.md)
 - [ChatGPT 结账报错、付不了款？11 月 14 日中午账单故障已恢复，扣了钱没到账先别重复买](guides/chatgpt-billing-checkout-errors-nov-14.md)
 - [ChatGPT dots 能听你的规矩了：自定义指令和自定义规则怎么设，一次讲清](guides/chatgpt-dots-custom-instructions-rules.md)
 - [ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来](guides/chatgpt-dots-ios-reply-terra-pro.md)
@@ -40,6 +41,7 @@
 - [Codex 更新后发消息直接打断任务？是“追加消息”默认改成了 Steer，改回 Queue 只要一步](guides/codex-steer-vs-queue-follow-up.md)
 - [Codex 长任务改几个文件就停下来汇报？用 /goal、AGENTS.md 和新对话让它一口气做完一个阶段](guides/codex-stops-early-long-tasks-fix.md)
 - [Codex 额度掉得特别快？2026 年 10 月额度异常的自查和省额度办法](guides/codex-usage-limit-draining-fast.md)
+- [Codex 额度烧得太快怎么办？按任务选模型和推理强度，让 Plus 的 5 小时额度撑得更久](guides/codex-usage-limit-model-reasoning-guide.md)
 - [GPT-5.5 10 月 14 日从 ChatGPT、Work 和 Codex 退役：迁移检查清单](guides/gpt-5-5-retirement-october-14.md)
 - [OpenAI 付款被拒？先看卡号前 6 位：11 月美国 Mastercard 商务卡扣款故障说明](guides/openai-mastercard-payment-declines-nov-2026.md)
 - [OpenAI 收购 Pierre：你在 Codex 里看的文件树和 Diff 就是它做的，接下来会变什么](guides/openai-pierre-acquisition-codex.md)

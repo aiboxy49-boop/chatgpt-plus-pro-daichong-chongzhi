@@ -1,5 +1,35 @@
 [
   {
+    "slug": "chatgpt-ads-free-go-plus-ad-free",
+    "title": "ChatGPT 广告在 44 个国家开放本地代理投放：Free 和 Go 会看到广告，Plus 起没有",
+    "date": "2026-11-16",
+    "summary": "买广告的渠道越来越多，看广告的人只有 Free 和 Go 用户。想要干净的界面，最省事的是 Plus。",
+    "points": [
+      "美国时间 11 月 12 日，OpenAI 让 Aleph 在 44 个国家独家代理 ChatGPT 广告销售，改变的是广告主怎么买，不是谁会看到广告。",
+      "帮助中心写明：广告只可能出现在 Free 和 Go，Plus、Pro、Business、Enterprise、Edu 都没有广告。",
+      "Free 可以选 Ads-Free，但消息更少、不能生图；Go 没有这个选项。想不看广告又不降额度，就升级 Plus。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-ads-free-go-plus-ad-free/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-ads-free-go-plus-ad-free/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-ads-free-go-plus-ad-free.md"
+  },
+  {
+    "slug": "codex-usage-limit-model-reasoning-guide",
+    "title": "Codex 额度烧得太快怎么办？按任务选模型和推理强度，让 Plus 的 5 小时额度撑得更久",
+    "date": "2026-11-16",
+    "summary": "额度不是按条数算的。模型、推理强度和上下文大小，决定了同一个任务要花掉多少。",
+    "points": [
+      "Codex 额度不是按条数算的：模型、推理强度、上下文和工具调用都会影响消耗，看起来差不多的任务，用掉的额度也可能差很多。",
+      "日常写代码先用 GPT-6.1 Sol 默认档，简单重复的活交给 Terra 或 Luna，真难的问题才上 Astra，而且 Astra 先从 Light 开始。",
+      "Plus 有 5 小时和每周两道限制；Pro 三档目前没有 5 小时限制，每天靠 Codex 干活的人升级 Pro 更省心。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-usage-limit-model-reasoning-guide.md"
+  },
+  {
     "slug": "chatgpt-billing-checkout-errors-nov-14",
     "title": "ChatGPT 结账报错、付不了款？11 月 14 日中午账单故障已恢复，扣了钱没到账先别重复买",
     "date": "2026-11-15",
