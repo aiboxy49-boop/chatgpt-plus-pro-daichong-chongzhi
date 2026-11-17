@@ -46,6 +46,11 @@
 - [OpenAI 付款被拒？先看卡号前 6 位：11 月美国 Mastercard 商务卡扣款故障说明](guides/openai-mastercard-payment-declines-nov-2026.md)
 - [OpenAI 收购 Pierre：你在 Codex 里看的文件树和 Diff 就是它做的，接下来会变什么](guides/openai-pierre-acquisition-codex.md)
 
+- [OpenAI 学术研究者计划扩容：11 月 23 日开放申请，先到先得 5 万份 Plus](guides/chatgpt-academic-researchers-plus-grant.md)
+- [ChatGPT 取消订阅怎么操作？网页、App Store、Google Play 要回到当初付款的地方](guides/chatgpt-cancel-subscription.md)
+- [ChatGPT 桌面版打开 Codex 要验证手机号？只能用短信或 WhatsApp，邮箱和验证器替代不了](guides/chatgpt-desktop-codex-phone-verification.md)
+- [12 月起 ChatGPT 和 Codex 共用一份额度：Plus / Pro 用户现在该做什么](guides/chatgpt-codex-shared-usage-december.md)
+
 ## 内容与反馈
 
 本库只包含公开教程，不收集账户登录信息、Session、卡密或订单凭证。订单问题请通过官网客服处理，不要在公开 Issue 中提交个人资料。

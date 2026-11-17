@@ -1,5 +1,95 @@
 [
   {
+    "slug": "chatgpt-academic-researchers-plus-grant",
+    "title": "OpenAI 学术研究者计划扩容：11 月 23 日开放申请，先到先得 5 万份 Plus",
+    "date": "2026-11-17",
+    "summary": "这不是人人都能领的 Plus。你得是符合条件的高校教研人员或博士后，用机构邮箱申请；学生不能自己当申请人，但可以被老师邀请进工作区。",
+    "points": [
+      "11 月 23 日开放下一轮申请，先到先得 5 万份；现在入口仍关闭，新报名只是加入等候名单。",
+      "新一轮发的是最长 12 个月的 Plus，不是试点时的 Pro，每份含申请人和最多两名同一机构的协作者。",
+      "申请人须是支持国家合格院校的研究教师或博士后，并在过去三年有指定领域的发表；学生不能当申请人，但可以被邀请进工作区。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-academic-researchers-plus-grant/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-academic-researchers-plus-grant/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-academic-researchers-plus-grant.md"
+  },
+  {
+    "slug": "chatgpt-cancel-subscription",
+    "title": "ChatGPT 取消订阅怎么操作？网页、App Store、Google Play 要回到当初付款的地方",
+    "date": "2026-11-17",
+    "summary": "取消订阅，关键不是点哪个按钮，而是先搞清楚当初钱是从哪个平台扣的。找错地方，就会以为取消了，下个月照样扣。",
+    "points": [
+      "在哪里付的款，就在哪里取消：网页走 ChatGPT 的 Billing，App 内购走 Apple 或 Google 的订阅页。",
+      "卸载 App、换手机都不会停扣款。想停下次续费，至少提前 24 小时取消；付费功能会用到当前账期结束。",
+      "取消不等于退款。网页和 Google Play 找 OpenAI，App Store 找 Apple；未使用的个人订阅，扣款 7 天内可以申请酌情退款。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-cancel-subscription/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-cancel-subscription/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-cancel-subscription.md"
+  },
+  {
+    "slug": "chatgpt-codex-shared-usage-december",
+    "title": "12 月起 ChatGPT 和 Codex 共用一份额度：Plus / Pro 用户现在该做什么",
+    "date": "2026-11-17",
+    "summary": "已确认的是共用额度、token 计量和 Instant 豁免；具体开始日期及每档额度，仍要等账户页面与官方更新。",
+    "points": [
+      "12月起Plus、Pro、Business的ChatGPT与Codex将共用用量，并按token计量；更高级模型和复杂任务通常消耗更多。",
+      "Instant聊天不计入这份用量；合并剩余用量与重置时间将显示在Settings → Usage。",
+      "官方说明尚未列出具体切换日和每档token数，不据此推算额度会减少；达到限制后按账户选项等重置、升级或用积分继续合资格功能。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-codex-shared-usage-december/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-codex-shared-usage-december/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-codex-shared-usage-december.md"
+  },
+  {
+    "slug": "chatgpt-desktop-codex-phone-verification",
+    "title": "ChatGPT 桌面版打开 Codex 要验证手机号？只能用短信或 WhatsApp，邮箱和验证器替代不了",
+    "date": "2026-11-17",
+    "summary": "这不是普通的登录验证。桌面版 Codex 这一步只接受支持的手机号，通行密钥能帮你登录账号，但替不了这一次手机验证。",
+    "points": [
+      "日常用 ChatGPT 一般不用验证手机号；在桌面版打开 Codex，或第一次创建 API 密钥时，可能会被要求验证。",
+      "验证码只走短信，部分国家可以用 WhatsApp，不能改成邮箱、电话或验证器 App。",
+      "请用自己能控制的、受支持的手机号。座机、网络电话和 Google Voice 都不行；通行密钥只能帮你登录账号，替不了这一步。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-desktop-codex-phone-verification/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-desktop-codex-phone-verification/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-desktop-codex-phone-verification.md"
+  },
+  {
+    "slug": "chatgpt-plans-comparison-2026",
+    "title": "ChatGPT Plus、Pro、Go 到底买哪个？2026 套餐对比与选购建议",
+    "date": "2026-11-17",
+    "summary": "先按任务比较模型、工具和额度，再看价格；无广告、本地与云端 Codex、Pro 档位各有区别。",
+    "points": [
+      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
+      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
+      "Pro 100和500的Work/Codex额度较此前翻倍；Pro 200统一到较高额度。12月共用额度的具体日期和token数仍未列出。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
+  },
+  {
+    "slug": "chatgpt-recharge-guide",
+    "title": "国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选",
+    "date": "2026-11-17",
+    "summary": "先核对账户和原订阅平台，再选择付款方式；官方直付条件、App 内购和本站订单分别检查。",
+    "points": [
+      "官方网页订阅需要核对发卡地区、账单信息及可能出现的银行验证；本币价格以结账页为准。",
+      "App Store、Google Play 与网页的订阅管理分开，已有订阅先确认原平台，换设备不必重买。",
+      "选择本站服务时核对商品、本人账户与订单，支付宝、微信付款后仍需确认账户套餐与账期。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-recharge-guide.md"
+  },
+  {
     "slug": "chatgpt-ads-free-go-plus-ad-free",
     "title": "ChatGPT 广告在 44 个国家开放本地代理投放：Free 和 Go 会看到广告，Plus 起没有",
     "date": "2026-11-16",
@@ -300,21 +390,6 @@
     "file": "knowledge/guides/chatgpt-pro-recharge.md"
   },
   {
-    "slug": "chatgpt-recharge-guide",
-    "title": "国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选",
-    "date": "2026-11-11",
-    "summary": "没有海外信用卡时，真正要比较的不是单一价格，而是账户归属、付款条件、凭证安全、失败处理和后续售后。",
-    "points": [
-      "没有海外信用卡也能开通：人民币代充支持支付宝、微信付款，直充到你本人的账户。",
-      "选代充认准四点：直充本人账户、认证支付渠道、订单进度可查、订阅期内售后质保。",
-      "共享账户会暴露聊天记录和文件，不适合工作、学习或任何含隐私的场景。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-recharge-guide.md"
-  },
-  {
     "slug": "chatgpt-recharge-safety",
     "title": "ChatGPT 代充安全吗：密码、Session、订单与退款安全检查",
     "date": "2026-11-11",
@@ -463,21 +538,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-pro-100-200-500.md"
-  },
-  {
-    "slug": "chatgpt-plans-comparison-2026",
-    "title": "ChatGPT Plus、Pro、Go 到底买哪个？2026 套餐对比与选购建议",
-    "date": "2026-10-12",
-    "summary": "按 OpenAI 当前套餐页和 Pro tiers 帮助文档，对比 Free、Go、Plus 与 Pro 100/200/500 的模型、功能和使用额度。",
-    "points": [
-      "Go、Plus、Pro 目前按月订阅，具体价格和本地化定价以 ChatGPT 套餐页为准。",
-      "Pro 100、200、500 的主要差别是使用额度，Pro 500 额外提供 Ultrafast。",
-      "项目、记忆、Codex 和文件上传的限制随套餐变化，购买前要按自己的工作流核对。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
   },
   {
     "slug": "chatgpt-plus-vs-api-cost",
