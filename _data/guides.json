@@ -1,5 +1,20 @@
 [
   {
+    "slug": "chatgpt-change-email",
+    "title": "ChatGPT 能改邮箱吗？能，在网页设置里改，这几种情况改不了",
+    "date": "2026-11-18",
+    "summary": "换邮箱不用换账号，聊天记录和会员都还在。但旧邮箱如果已经收不到信，这条路就走不通，客服也不会破例。",
+    "points": [
+      "可以自己改：网页版 Settings → Account → Email，验证新邮箱后生效，聊天记录、项目和订阅都保留。",
+      "改不了的几种情况：旧邮箱收不到信、账号属于 Business / Enterprise / Edu 工作区或用 SSO 登录、在手机 App 里操作。",
+      "有次数限制：注册满 24 小时才能改，24 小时内最多 2 次，终身最多 20 次；旧邮箱会一直留给这个账号。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-change-email/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-change-email/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-change-email.md"
+  },
+  {
     "slug": "chatgpt-gpt-6-2-how-to-use",
     "title": "ChatGPT 怎么用上 GPT-6.2？只在 Work 和 Codex 里，哪些套餐有、找不到模型先查这 4 处",
     "date": "2026-11-18",
@@ -13,6 +28,21 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-gpt-6-2-how-to-use/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-gpt-6-2-how-to-use/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-gpt-6-2-how-to-use.md"
+  },
+  {
+    "slug": "chatgpt-payment-failed",
+    "title": "ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式",
+    "date": "2026-11-18",
+    "summary": "付款失败后最危险的动作是连续重复提交；先分清银行拒付、账户状态、账单信息还是订单同步问题。",
+    "points": [
+      "先查看银行和官方页面的明确提示，不要在短时间连续尝试多张卡。",
+      "核对卡片类型、余额、境外线上支付、账单信息和账户地区是否符合要求。",
+      "已经扣款但订阅没更新时，先保存证据并等待订单确认，不要立即重复付款。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-payment-failed.md"
   },
   {
     "slug": "chatgpt-plans-comparison-2026",
@@ -30,6 +60,21 @@
     "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
   },
   {
+    "slug": "chatgpt-plus-vs-api-cost",
+    "title": "ChatGPT Plus 20 美元和 API 按量付费，普通人怎么选？成本拆解",
+    "date": "2026-11-18",
+    "summary": "ChatGPT Plus 是固定月费，API 按输入输出 token 计费；本文用官方 GPT-6 API 价格做示例估算，并说明订阅登录与 API Key 在 Codex 中的差异。",
+    "points": [
+      "API 费用取决于模型、输入输出 token、上下文长度和处理模式，示例计算不是账单承诺。",
+      "Plus 不含 API 额度；Pro 100、200、500 每月附带等额 API 额度，需要手动激活一次，订阅额度和 API 余额仍然分开计费。",
+      "批量、结构化、可延迟的任务更适合用低价模型和批处理，重度交互通常更适合订阅。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-vs-api-cost/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-vs-api-cost/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plus-vs-api-cost.md"
+  },
+  {
     "slug": "chatgpt-pro-100-200-500",
     "title": "ChatGPT Pro 100、200、500 怎么选？额度、Ultrafast 与续费说明",
     "date": "2026-11-18",
@@ -37,12 +82,43 @@
     "points": [
       "Pro 100、200、500 的官方月费分别为 100、200、500 美元，只能月付。",
       "Pro 500 的 GPT-6.2 Astra 和 Sol 都有 Ultrafast；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast；Pro 100 没有。",
-      "Pro 200 额度下调已取消，所有 Pro 200 订阅统一为同一份 Work 和 Codex 额度。"
+      "Pro 200 额度下调已取消，所有 Pro 200 订阅统一为同一份 Work 和 Codex 额度。",
+      "三档每月分别附带 100、200、500 美元 API 额度，付费满 7 天后在 Billing 里激活一次，当期不用就过期。"
     ],
     "category": "套餐选择",
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-pro-100-200-500.md"
+  },
+  {
+    "slug": "chatgpt-pro-api-credits-claim",
+    "title": "ChatGPT Pro 每月送的 API 额度怎么领？在 Billing 里激活一次，当月不用就过期",
+    "date": "2026-11-18",
+    "summary": "这笔钱不会自动进你的 API 账户，要先手动关联一次；领完只在那一个 API 组织里能用，当期账单周期结束前用不完就作废。",
+    "points": [
+      "Pro 100、200、500 每月分别附带 100、200、500 美元 API 额度；Plus 和免费试用没有。",
+      "订阅付费满 7 天后，在 ChatGPT 的 Settings → Billing 找到 API credits，选一个你本人拥有、邮箱相同的 API 组织确认，激活一次以后每月自动到账。",
+      "额度当期不用就过期，不结转；只能用于普通 API 调用，通过 API Key 跑 Codex 不算在内，也不会给 ChatGPT 或 Codex 加额度。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-pro-api-credits-claim.md"
+  },
+  {
+    "slug": "chatgpt-renewal-payment-failed",
+    "title": "ChatGPT 续费失败怎么办？先看在哪订阅的，再换卡、补付账单",
+    "date": "2026-11-18",
+    "summary": "续费没扣成功，最容易犯的错是换个平台重新订一份。先弄清订阅归谁管，再在那个地方把钱补上。",
+    "points": [
+      "先看订阅归谁管：收据来自 OpenAI，就在 ChatGPT 的 Billing 处理；来自 Apple 或 Google，就到商店账号里换卡。",
+      "网页订阅续费失败，先打开 Billing 里的未付账单补付，确认显示 Paid。只加一张新卡，失败的那笔不会自动算付上。",
+      "App Store 续费失败后别急着去网页另订一份，Apple 可能还在后台补扣，处理不好就是两份订阅。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-renewal-payment-failed/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-renewal-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-renewal-payment-failed.md"
   },
   {
     "slug": "codex-usage-limit-model-reasoning-guide",
@@ -390,21 +466,6 @@
     "file": "knowledge/guides/chatgpt-jiangzhi-explained.md"
   },
   {
-    "slug": "chatgpt-payment-failed",
-    "title": "ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式",
-    "date": "2026-11-11",
-    "summary": "付款失败后最危险的动作是连续重复提交；先分清银行拒付、账户状态、账单信息还是订单同步问题。",
-    "points": [
-      "先查看银行和官方页面的明确提示，不要在短时间连续尝试多张卡。",
-      "核对卡片类型、余额、境外线上支付、账单信息和账户地区是否符合要求。",
-      "已经扣款但订阅没更新时，先保存证据并等待订单确认，不要立即重复付款。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-payment-failed.md"
-  },
-  {
     "slug": "chatgpt-plus-price-comparison",
     "title": "ChatGPT Plus 费用比较：官方直付、礼品卡、代充与共享账号成本",
     "date": "2026-11-11",
@@ -583,21 +644,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-projects-memory-tips/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-projects-memory-tips/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-projects-memory-tips.md"
-  },
-  {
-    "slug": "chatgpt-plus-vs-api-cost",
-    "title": "ChatGPT Plus 20 美元和 API 按量付费，普通人怎么选？成本拆解",
-    "date": "2026-10-12",
-    "summary": "ChatGPT Plus 是固定月费，API 按输入输出 token 计费；本文用官方 GPT-6 API 价格做示例估算，并说明订阅登录与 API Key 在 Codex 中的差异。",
-    "points": [
-      "API 费用取决于模型、输入输出 token、上下文长度和处理模式，示例计算不是账单承诺。",
-      "Plus、Pro 订阅额度与 API 余额分开，不包含 API 额度。",
-      "批量、结构化、可延迟的任务更适合用低价模型和批处理，重度交互通常更适合订阅。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-vs-api-cost/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-vs-api-cost/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plus-vs-api-cost.md"
   },
   {
     "slug": "chatgpt-gpt-6-intelligent-ui-2026",

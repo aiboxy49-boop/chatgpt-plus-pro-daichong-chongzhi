@@ -9,6 +9,7 @@
 - Pro 100、200、500 的官方月费分别为 100、200、500 美元，只能月付。
 - Pro 500 的 GPT-6.2 Astra 和 Sol 都有 Ultrafast；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast；Pro 100 没有。
 - Pro 200 额度下调已取消，所有 Pro 200 订阅统一为同一份 Work 和 Codex 额度。
+- 三档每月分别附带 100、200、500 美元 API 额度，付费满 7 天后在 Billing 里激活一次，当期不用就过期。
 
 [阅读官网完整指南](https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=github&utm_medium=referral&utm_campaign=knowledge_base)
 

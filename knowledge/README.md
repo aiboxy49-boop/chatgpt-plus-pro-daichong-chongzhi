@@ -55,6 +55,10 @@
 - [GPT-6.2 Astra 和 Sol 怎么选？按任务挑模型，Plus 的 Work 额度这样用更久](guides/gpt-6-2-astra-vs-sol.md)
 - [想用 GPT-6.2，开 Plus 还是 Pro？Pro 200 首次有 Ultrafast，各档额度和速度怎么选](guides/gpt-6-2-chatgpt-plan-guide.md)
 
+- [ChatGPT 续费失败怎么办？先看在哪订阅的，再换卡、补付账单](guides/chatgpt-renewal-payment-failed.md)
+- [ChatGPT 能改邮箱吗？能，在网页设置里改，这几种情况改不了](guides/chatgpt-change-email.md)
+- [ChatGPT Pro 每月送的 API 额度怎么领？在 Billing 里激活一次，当月不用就过期](guides/chatgpt-pro-api-credits-claim.md)
+
 ## 内容与反馈
 
 本库只包含公开教程，不收集账户登录信息、Session、卡密或订单凭证。订单问题请通过官网客服处理，不要在公开 Issue 中提交个人资料。
