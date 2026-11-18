@@ -1,5 +1,20 @@
 [
   {
+    "slug": "avoid-chatgpt-jiangzhi",
+    "title": "不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题",
+    "date": "2026-11-18",
+    "summary": "依据 OpenAI 帮助中心《Suspicious Activity Alert》《Account Sharing Policy》《Response speed and usage resets in Work and Codex》（核对于 2026-11-18）：减少 ChatGPT 体验波动与账号警告，关键是一号一人、管好活跃会话、强密码和两步验证、排查时只用一个可信设备和网络；官方列出的警告信号包括异常的登录地点或设备、用量或设置突然大幅变化、同时登录的会话比平时多。官方没有给出“静置多久”的时长，限制持续时按自助步骤排查并带齐信息联系支持。",
+    "points": [
+      "难题手动切换到合适的推理档位，别让所有任务都消耗高档额度。",
+      "登录地点和设备尽量固定，少开同时登录的会话；这些都是官方列出的警告信号。",
+      "遇到警告时按官方安全步骤处理，不要购买共享号，也不要把密码交给任何人。"
+    ],
+    "category": "账号与使用",
+    "source_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/avoid-chatgpt-jiangzhi.md"
+  },
+  {
     "slug": "chatgpt-change-email",
     "title": "ChatGPT 能改邮箱吗？能，在网页设置里改，这几种情况改不了",
     "date": "2026-11-18",
@@ -28,6 +43,21 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-gpt-6-2-how-to-use/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-gpt-6-2-how-to-use/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-gpt-6-2-how-to-use.md"
+  },
+  {
+    "slug": "chatgpt-jiangzhi-explained",
+    "title": "ChatGPT 突然变笨了？先按这份清单排查额度、模型和账号状态",
+    "date": "2026-11-18",
+    "summary": "“ChatGPT 降智”不是 OpenAI 已确认的技术术语。依据 OpenAI 帮助中心《GPT-6 and other models in ChatGPT》《Suspicious Activity Alert》（核对于 2026-11-18）：Plus 和 Pro 网页版选 Instant 时不会自动加思考，难题要手动选 Medium 或 High；思考额度用完后 ChatGPT 可能换其他可用模型继续；额度用完本身不代表账号受限；可疑活动警告可能影响部分功能；为防滥用触发的临时使用限制，ChatGPT 会通知你。",
+    "points": [
+      "模型、推理档位、上下文长度、工具调用和额度都会改变回答体验。",
+      "可疑活动警告可能影响部分功能，应该按官方步骤改密码、开 2FA 并退出陌生会话。",
+      "额度用完、模型回退是官方写明的机制，本身不代表账号受限；真有临时限制，ChatGPT 会提示。"
+    ],
+    "category": "账号与使用",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-jiangzhi-explained.md"
   },
   {
     "slug": "chatgpt-payment-failed",
@@ -119,6 +149,51 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-renewal-payment-failed/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-renewal-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-renewal-payment-failed.md"
+  },
+  {
+    "slug": "chatgpt-topup-methods-compared",
+    "title": "国内怎么开 ChatGPT Plus？四种付款方式与本人账户充值对比",
+    "date": "2026-11-18",
+    "summary": "国内开通 ChatGPT Plus/Pro 时，对比海外卡、礼品卡、虚拟卡和本人账户充值四种路径，并强调订单、凭证、退款和密码边界。",
+    "points": [
+      "官网绑卡和外区礼品卡门槛高，国内卡经常被拒。",
+      "代充选直充本人账户、认证支付渠道、订单可查、有售后质保的服务。",
+      "任何要求长期密码、邮箱密码、验证码或 2FA 恢复码的流程都应暂停。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-topup-methods-compared/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-topup-methods-compared/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-topup-methods-compared.md"
+  },
+  {
+    "slug": "codex-steer-vs-queue-follow-up",
+    "title": "Codex 更新后发消息直接打断任务？是“追加消息”默认改成了 Steer，改回 Queue 只要一步",
+    "date": "2026-11-18",
+    "summary": "Codex 更新后，任务进行中发送的下一步指令会直接插入当前任务，原因是追加消息的默认行为改成了 Steer（引导），可在设置里搜索 queue 改回 Queue（排队）。官方设置文档写明 General 下 Follow-up behavior 可选择任务运行中发送的消息是引导当前运行还是等待下一轮；Codex CLI 0.163.0（2026-10-15）说明在 Codex 回复时发送追加消息会立即引导；ChatGPT iOS 1.2026.300（2026-11-02）说明追加消息默认引导正在运行的任务，除非已保存其他偏好。",
+    "points": [
+      "更新后看起来“队列没了”，其实是追加消息默认改成了 Steer。",
+      "在设置的 General 里找 Follow-up behavior，就能改回 Queue（排队等下一轮）。",
+      "想纠偏用 Steer，想排好下一步再走用 Queue；更新后最好回设置看一眼。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-steer-vs-queue-follow-up/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-steer-vs-queue-follow-up/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-steer-vs-queue-follow-up.md"
+  },
+  {
+    "slug": "codex-usage-limit-draining-fast",
+    "title": "Codex 额度掉得特别快？费额度的设置自查、异常反馈和省额度办法",
+    "date": "2026-11-18",
+    "summary": "依据 ChatGPT Learn《Pricing》（核对于 2026-11-18）：Fast 模式下 GPT-6.2 Astra / Sol 按 2 倍、更早的模型按 2.5 倍消耗包含额度；Ultrafast 下 GPT-6.2 按 6 倍、GPT-6 Astra 和 GPT-6.1 Sol 按 8 倍；图片生成平均快 3 到 5 倍；云端任务可能比本地消息更费；MCP 服务器和过大的 AGENTS.md 也会增加上下文。剩余额度在用量面板和 CLI 的 /status 查看；怀疑计量异常用 /feedback 提交；额度不够可买积分、用 API Key 跑本地对话或升级 Pro。",
+    "points": [
+      "Fast 模式按 2 到 2.5 倍、Ultrafast 按 6 到 8 倍消耗包含额度（看模型），图片生成平均快 3 到 5 倍，先排查这几项。",
+      "用量面板和 Codex CLI 里的 /status 能看到剩余额度和重置时间。",
+      "怀疑计量出错就对受影响的会话用 /feedback 提交，别靠反复重开会话碰运气。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-draining-fast/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-draining-fast/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-usage-limit-draining-fast.md"
   },
   {
     "slug": "codex-usage-limit-model-reasoning-guide",
@@ -406,36 +481,6 @@
     "file": "knowledge/guides/chatgpt-login-outage-nov-12.md"
   },
   {
-    "slug": "codex-steer-vs-queue-follow-up",
-    "title": "Codex 更新后发消息直接打断任务？是“追加消息”默认改成了 Steer，改回 Queue 只要一步",
-    "date": "2026-11-12",
-    "summary": "不少人发现 Codex 更新后，任务进行中发送的下一步指令会直接中断并插入当前任务。原因是追加消息的默认行为改成了 Steer（引导），可在设置里搜索 queue 改回 Queue（排队）；大版本更新后偶尔会被改回默认。官方设置文档写明 General 下 Follow-up behavior 可选择任务运行中发送的消息是引导当前运行还是等待下一轮；Codex CLI 0.163.0（2026-10-15）说明在 Codex 回复时发送追加消息会立即引导；ChatGPT iOS 1.2026.300（2026-11-02）说明追加消息默认引导正在运行的任务，除非已保存其他偏好。",
-    "points": [
-      "不少人更新后发现“队列没了”，其实是追加消息默认改成了 Steer。",
-      "在设置的 General 里找 Follow-up behavior，就能改回 Queue（排队等下一轮）。",
-      "想纠偏用 Steer，想排好下一步再走用 Queue；更新后最好回设置看一眼。"
-    ],
-    "category": "Codex",
-    "source_url": "https://www.ai2boxy.com/zh/guides/codex-steer-vs-queue-follow-up/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-steer-vs-queue-follow-up/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/codex-steer-vs-queue-follow-up.md"
-  },
-  {
-    "slug": "avoid-chatgpt-jiangzhi",
-    "title": "不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题",
-    "date": "2026-11-11",
-    "summary": "减少 ChatGPT 体验波动的关键是使用自己的账号、稳定环境、合适的模型档位和清晰提示；社区方法可以按需尝试。",
-    "points": [
-      "难题手动切换到合适的推理档位，别让所有任务都消耗高档额度。",
-      "固定可信设备和网络，少切换代理、IP 和并发会话。",
-      "遇到警告时按官方安全步骤处理，不要购买共享号，也不要把密码交给任何人。"
-    ],
-    "category": "账号与使用",
-    "source_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/avoid-chatgpt-jiangzhi.md"
-  },
-  {
     "slug": "chatgpt-dots-ios-reply-terra-pro",
     "title": "ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来",
     "date": "2026-11-11",
@@ -449,21 +494,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-ios-reply-terra-pro/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-ios-reply-terra-pro/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-dots-ios-reply-terra-pro.md"
-  },
-  {
-    "slug": "chatgpt-jiangzhi-explained",
-    "title": "ChatGPT 突然变笨了？先按这份清单排查额度、模型和账号状态",
-    "date": "2026-11-11",
-    "summary": "“ChatGPT 降智”不是 OpenAI 已确认的技术术语；本文先排查模型档位、额度、上下文和账号警告，再把社区测试当作参考。",
-    "points": [
-      "模型、推理档位、上下文长度、工具调用和额度都会改变回答体验。",
-      "可疑活动警告可能影响部分功能，应该按官方步骤改密码、开 2FA 并退出陌生会话。",
-      "鹈鹕测试等社区方法不能替代官方模型和账户状态页面。"
-    ],
-    "category": "账号与使用",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-jiangzhi-explained.md"
   },
   {
     "slug": "chatgpt-plus-price-comparison",
@@ -541,21 +571,6 @@
     "file": "knowledge/guides/chatgpt-slides-collaboration-guide.md"
   },
   {
-    "slug": "chatgpt-topup-methods-compared",
-    "title": "国内怎么开 ChatGPT Plus？四种付款方式与本人账户充值对比",
-    "date": "2026-11-11",
-    "summary": "国内开通 ChatGPT Plus/Pro 时，对比海外卡、礼品卡、虚拟卡和本人账户充值四种路径，并强调订单、凭证、退款和密码边界。",
-    "points": [
-      "官网绑卡和外区礼品卡门槛高，国内卡经常被拒。",
-      "代充选直充本人账户、认证支付渠道、订单可查、有售后质保的服务。",
-      "任何要求长期密码、邮箱密码、验证码或 2FA 恢复码的流程都应暂停。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-topup-methods-compared/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-topup-methods-compared/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-topup-methods-compared.md"
-  },
-  {
     "slug": "codex-recharge",
     "title": "Codex 充值是什么意思：套餐关系、国内购买与使用前检查",
     "date": "2026-11-11",
@@ -599,21 +614,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/openai-pierre-acquisition-codex/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/openai-pierre-acquisition-codex/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/openai-pierre-acquisition-codex.md"
-  },
-  {
-    "slug": "codex-usage-limit-draining-fast",
-    "title": "Codex 额度掉得特别快？2026 年 10 月额度异常的自查和省额度办法",
-    "date": "2026-10-19",
-    "summary": "2026 年 10 月中旬多名用户反馈 Codex 额度消耗异常。Fast、Ultrafast 模式、图片生成、MCP 和过大的 AGENTS.md 都会明显加快消耗；异常时可用 /feedback 反馈，额度不够可买积分或升级 Pro。",
-    "points": [
-      "Fast 模式按 2.5 倍、Ultrafast 按 8 倍消耗订阅额度，图片生成平均快 3 到 5 倍，先排查这几项。",
-      "用量面板和 Codex CLI 里的 /status 能看到剩余额度和重置时间。",
-      "怀疑计量出错就对受影响的会话用 /feedback 提交，别靠反复重开会话碰运气。"
-    ],
-    "category": "Codex",
-    "source_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-draining-fast/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-draining-fast/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/codex-usage-limit-draining-fast.md"
   },
   {
     "slug": "chatgpt-account-security",

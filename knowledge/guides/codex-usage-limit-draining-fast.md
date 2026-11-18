@@ -1,12 +1,12 @@
-# Codex 额度掉得特别快？2026 年 10 月额度异常的自查和省额度办法
+# Codex 额度掉得特别快？费额度的设置自查、异常反馈和省额度办法
 
-更新于 2026-10-19 · AI Boxy
+更新于 2026-11-18 · AI Boxy
 
-2026 年 10 月中旬多名用户反馈 Codex 额度消耗异常。Fast、Ultrafast 模式、图片生成、MCP 和过大的 AGENTS.md 都会明显加快消耗；异常时可用 /feedback 反馈，额度不够可买积分或升级 Pro。
+依据 ChatGPT Learn《Pricing》（核对于 2026-11-18）：Fast 模式下 GPT-6.2 Astra / Sol 按 2 倍、更早的模型按 2.5 倍消耗包含额度；Ultrafast 下 GPT-6.2 按 6 倍、GPT-6 Astra 和 GPT-6.1 Sol 按 8 倍；图片生成平均快 3 到 5 倍；云端任务可能比本地消息更费；MCP 服务器和过大的 AGENTS.md 也会增加上下文。剩余额度在用量面板和 CLI 的 /status 查看；怀疑计量异常用 /feedback 提交；额度不够可买积分、用 API Key 跑本地对话或升级 Pro。
 
 ## 要点
 
-- Fast 模式按 2.5 倍、Ultrafast 按 8 倍消耗订阅额度，图片生成平均快 3 到 5 倍，先排查这几项。
+- Fast 模式按 2 到 2.5 倍、Ultrafast 按 6 到 8 倍消耗包含额度（看模型），图片生成平均快 3 到 5 倍，先排查这几项。
 - 用量面板和 Codex CLI 里的 /status 能看到剩余额度和重置时间。
 - 怀疑计量出错就对受影响的会话用 /feedback 提交，别靠反复重开会话碰运气。
 

@@ -40,7 +40,7 @@
 - [Codex 充值是什么意思：套餐关系、国内购买与使用前检查](guides/codex-recharge.md)
 - [Codex 更新后发消息直接打断任务？是“追加消息”默认改成了 Steer，改回 Queue 只要一步](guides/codex-steer-vs-queue-follow-up.md)
 - [Codex 长任务改几个文件就停下来汇报？用 /goal、AGENTS.md 和新对话让它一口气做完一个阶段](guides/codex-stops-early-long-tasks-fix.md)
-- [Codex 额度掉得特别快？2026 年 10 月额度异常的自查和省额度办法](guides/codex-usage-limit-draining-fast.md)
+- [Codex 额度掉得特别快？费额度的设置自查、异常反馈和省额度办法](guides/codex-usage-limit-draining-fast.md)
 - [Codex 额度烧得太快怎么办？按任务选模型和推理强度，让 Plus 的 5 小时额度撑得更久](guides/codex-usage-limit-model-reasoning-guide.md)
 - [GPT-5.5 10 月 14 日从 ChatGPT、Work 和 Codex 退役：迁移检查清单](guides/gpt-5-5-retirement-october-14.md)
 - [OpenAI 付款被拒？先看卡号前 6 位：11 月美国 Mastercard 商务卡扣款故障说明](guides/openai-mastercard-payment-declines-nov-2026.md)
