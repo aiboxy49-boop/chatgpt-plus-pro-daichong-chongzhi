@@ -51,6 +51,10 @@
 - [ChatGPT 桌面版打开 Codex 要验证手机号？只能用短信或 WhatsApp，邮箱和验证器替代不了](guides/chatgpt-desktop-codex-phone-verification.md)
 - [12 月起 ChatGPT 和 Codex 共用一份额度：Plus / Pro 用户现在该做什么](guides/chatgpt-codex-shared-usage-december.md)
 
+- [ChatGPT 怎么用上 GPT-6.2？只在 Work 和 Codex 里，哪些套餐有、找不到模型先查这 4 处](guides/chatgpt-gpt-6-2-how-to-use.md)
+- [GPT-6.2 Astra 和 Sol 怎么选？按任务挑模型，Plus 的 Work 额度这样用更久](guides/gpt-6-2-astra-vs-sol.md)
+- [想用 GPT-6.2，开 Plus 还是 Pro？Pro 200 首次有 Ultrafast，各档额度和速度怎么选](guides/gpt-6-2-chatgpt-plan-guide.md)
+
 ## 内容与反馈
 
 本库只包含公开教程，不收集账户登录信息、Session、卡密或订单凭证。订单问题请通过官网客服处理，不要在公开 Issue 中提交个人资料。

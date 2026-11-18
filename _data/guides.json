@@ -1,5 +1,95 @@
 [
   {
+    "slug": "chatgpt-gpt-6-2-how-to-use",
+    "title": "ChatGPT 怎么用上 GPT-6.2？只在 Work 和 Codex 里，哪些套餐有、找不到模型先查这 4 处",
+    "date": "2026-11-18",
+    "summary": "GPT-6.2 不在平时聊天的那个菜单里。先切到 Work 或 Codex，再看自己的套餐和客户端版本。",
+    "points": [
+      "GPT-6.2 Astra 和 Sol 只加进了 ChatGPT Work 和 Codex，平时聊天用的 Chat 菜单不会出现它们。",
+      "Plus、Pro、Business、Enterprise、Edu 可以用，Enterprise 和 Edu 要等管理员打开；官方名单里没有 Free 和 Go。",
+      "找不到模型，先确认自己在 Work 或 Codex，再更新桌面 App 和 Codex CLI，最后看套餐和推送进度。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-gpt-6-2-how-to-use/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-gpt-6-2-how-to-use/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-gpt-6-2-how-to-use.md"
+  },
+  {
+    "slug": "chatgpt-plans-comparison-2026",
+    "title": "ChatGPT Plus、Pro、Go 到底买哪个？2026 套餐对比与选购建议",
+    "date": "2026-11-18",
+    "summary": "先按任务比较模型、工具和额度，再看价格；无广告、本地与云端 Codex、Pro 档位各有区别。",
+    "points": [
+      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
+      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
+      "GPT-6.2 Astra 和 Sol 只在 Work 与 Codex 中，Plus 起可用，Free/Go 不在名单内；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast，Pro 500 两个模型都有。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
+  },
+  {
+    "slug": "chatgpt-pro-100-200-500",
+    "title": "ChatGPT Pro 100、200、500 怎么选？额度、Ultrafast 与续费说明",
+    "date": "2026-11-18",
+    "summary": "三档 Pro 的核心能力接近，主要差别在使用额度和 Ultrafast；GPT-6.2 发布后，Pro 200 也能开 Sol 的 Ultrafast。",
+    "points": [
+      "Pro 100、200、500 的官方月费分别为 100、200、500 美元，只能月付。",
+      "Pro 500 的 GPT-6.2 Astra 和 Sol 都有 Ultrafast；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast；Pro 100 没有。",
+      "Pro 200 额度下调已取消，所有 Pro 200 订阅统一为同一份 Work 和 Codex 额度。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-pro-100-200-500.md"
+  },
+  {
+    "slug": "codex-usage-limit-model-reasoning-guide",
+    "title": "Codex 额度烧得太快怎么办？按任务选模型和推理强度，让 Plus 的 5 小时额度撑得更久",
+    "date": "2026-11-18",
+    "summary": "额度不是按条数算的。模型、推理强度和上下文大小，决定了同一个任务要花掉多少。",
+    "points": [
+      "Codex 额度不是按条数算的：模型、推理强度、上下文和工具调用都会影响消耗，看起来差不多的任务，用掉的额度也可能差很多。",
+      "日常写代码先用 GPT-6.2 Sol 默认档，简单重复的活交给 Terra 或 Luna，真难的问题才上 Astra。GPT-6.2 Sol 积分费率和 6.1 Sol 一样，Plus 每 5 小时估算更高。",
+      "Plus 有 5 小时和每周两道限制；Pro 三档目前没有 5 小时限制，每天靠 Codex 干活的人升级 Pro 更省心。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-usage-limit-model-reasoning-guide.md"
+  },
+  {
+    "slug": "gpt-6-2-astra-vs-sol",
+    "title": "GPT-6.2 Astra 和 Sol 怎么选？按任务挑模型，Plus 的 Work 额度这样用更久",
+    "date": "2026-11-18",
+    "summary": "Sol 当主力，Astra 留给真正难的活。按官方的积分费率，同样的 token 量，Astra 消耗的额度是 Sol 的 4 倍。",
+    "points": [
+      "Sol 适合日常改代码、写报告、整理资料；Astra 留给跨多个环节、要一路做到底的难任务。",
+      "按官方积分费率，同样的 token 量，Astra 消耗的额度是 Sol 的 4 倍。Plus 每 5 小时参考值：Astra 6–50 条，Sol 17–180 条。",
+      "先用默认推理强度，不够再往上调；Fast 按 2 倍消耗额度，Ultrafast 只有 Pro 200 和 Pro 500 有。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/gpt-6-2-astra-vs-sol/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/gpt-6-2-astra-vs-sol/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/gpt-6-2-astra-vs-sol.md"
+  },
+  {
+    "slug": "gpt-6-2-chatgpt-plan-guide",
+    "title": "想用 GPT-6.2，开 Plus 还是 Pro？Pro 200 首次有 Ultrafast，各档额度和速度怎么选",
+    "date": "2026-11-18",
+    "summary": "四档都能用 GPT-6.2，差别在额度多少和能不能开 Ultrafast。先看自己每天在 Work 和 Codex 里用多少，再决定档位。",
+    "points": [
+      "Plus、Pro 100、Pro 200、Pro 500 都能在 Work 和 Codex 里用 GPT-6.2 Astra 和 Sol，Free 和 Go 不行。",
+      "Plus 有 5 小时窗口（Astra 约 6–50 条、Sol 约 17–180 条），Pro 三档目前没有 5 小时限制。",
+      "Pro 200 首次能开 GPT-6.2 Sol 的 Ultrafast，Pro 500 两个模型都能开；Ultrafast 按 6 倍消耗额度，只适合赶时间的活。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/gpt-6-2-chatgpt-plan-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/gpt-6-2-chatgpt-plan-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/gpt-6-2-chatgpt-plan-guide.md"
+  },
+  {
     "slug": "chatgpt-academic-researchers-plus-grant",
     "title": "OpenAI 学术研究者计划扩容：11 月 23 日开放申请，先到先得 5 万份 Plus",
     "date": "2026-11-17",
@@ -60,21 +150,6 @@
     "file": "knowledge/guides/chatgpt-desktop-codex-phone-verification.md"
   },
   {
-    "slug": "chatgpt-plans-comparison-2026",
-    "title": "ChatGPT Plus、Pro、Go 到底买哪个？2026 套餐对比与选购建议",
-    "date": "2026-11-17",
-    "summary": "先按任务比较模型、工具和额度，再看价格；无广告、本地与云端 Codex、Pro 档位各有区别。",
-    "points": [
-      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
-      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
-      "Pro 100和500的Work/Codex额度较此前翻倍；Pro 200统一到较高额度。12月共用额度的具体日期和token数仍未列出。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
-  },
-  {
     "slug": "chatgpt-recharge-guide",
     "title": "国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选",
     "date": "2026-11-17",
@@ -103,21 +178,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-ads-free-go-plus-ad-free/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-ads-free-go-plus-ad-free/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-ads-free-go-plus-ad-free.md"
-  },
-  {
-    "slug": "codex-usage-limit-model-reasoning-guide",
-    "title": "Codex 额度烧得太快怎么办？按任务选模型和推理强度，让 Plus 的 5 小时额度撑得更久",
-    "date": "2026-11-16",
-    "summary": "额度不是按条数算的。模型、推理强度和上下文大小，决定了同一个任务要花掉多少。",
-    "points": [
-      "Codex 额度不是按条数算的：模型、推理强度、上下文和工具调用都会影响消耗，看起来差不多的任务，用掉的额度也可能差很多。",
-      "日常写代码先用 GPT-6.1 Sol 默认档，简单重复的活交给 Terra 或 Luna，真难的问题才上 Astra，而且 Astra 先从 Light 开始。",
-      "Plus 有 5 小时和每周两道限制；Pro 三档目前没有 5 小时限制，每天靠 Codex 干活的人升级 Pro 更省心。"
-    ],
-    "category": "Codex",
-    "source_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/codex-usage-limit-model-reasoning-guide.md"
   },
   {
     "slug": "chatgpt-billing-checkout-errors-nov-14",
@@ -523,21 +583,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-projects-memory-tips/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-projects-memory-tips/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-projects-memory-tips.md"
-  },
-  {
-    "slug": "chatgpt-pro-100-200-500",
-    "title": "ChatGPT Pro 100、200、500 怎么选？额度、Ultrafast 与续费说明",
-    "date": "2026-10-13",
-    "summary": "OpenAI 当前提供 Pro 100、Pro 200、Pro 500 三档月度套餐；本文说明额度差别、Pro 200 的新老订阅规则以及 Pro 500 的 Ultrafast。",
-    "points": [
-      "Pro 100、200、500 的官方月费分别为 100、200、500 美元。",
-      "Pro 500 包含 GPT-6 Astra 和 GPT-6.1 Sol 的 Ultrafast，Pro 100/200 不包含。",
-      "Pro 200 的历史订阅资格和新订阅额度不同，应以账户套餐页显示为准。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-pro-100-200-500.md"
   },
   {
     "slug": "chatgpt-plus-vs-api-cost",
