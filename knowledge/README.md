@@ -59,6 +59,10 @@
 - [ChatGPT 能改邮箱吗？能，在网页设置里改，这几种情况改不了](guides/chatgpt-change-email.md)
 - [ChatGPT Pro 每月送的 API 额度怎么领？在 Billing 里激活一次，当月不用就过期](guides/chatgpt-pro-api-credits-claim.md)
 
+- [ChatGPT 语音输入怎么用？边说边出字，10 分钟限制取消了](guides/chatgpt-live-dictation-guide.md)
+- [ChatGPT 忘记密码、登不上怎么办？网页重置，设置里也能改](guides/chatgpt-reset-password.md)
+- [ChatGPT 说得太抽象、不好懂？用自定义指令先让它把话说清楚](guides/chatgpt-custom-instructions-plain-language.md)
+
 ## 内容与反馈
 
 本库只包含公开教程，不收集账户登录信息、Session、卡密或订单凭证。订单问题请通过官网客服处理，不要在公开 Issue 中提交个人资料。

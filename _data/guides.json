@@ -30,6 +30,36 @@
     "file": "knowledge/guides/chatgpt-account-security.md"
   },
   {
+    "slug": "chatgpt-change-email",
+    "title": "ChatGPT 能改邮箱吗？能，在网页设置里改，这几种情况改不了",
+    "date": "2026-11-19",
+    "summary": "换邮箱不用换账号，聊天记录和会员都还在。但旧邮箱如果已经收不到信，这条路就走不通，客服也不会破例。",
+    "points": [
+      "可以自己改：网页版 Settings → Account → Email，验证新邮箱后生效，聊天记录、项目和订阅都保留。",
+      "改不了的几种情况：旧邮箱收不到信、账号属于 Business / Enterprise / Edu 工作区或用 SSO 登录、在手机 App 里操作。",
+      "有次数限制：注册满 24 小时才能改，24 小时内最多 2 次，终身最多 20 次；旧邮箱会一直留给这个账号。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-change-email/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-change-email/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-change-email.md"
+  },
+  {
+    "slug": "chatgpt-custom-instructions-plain-language",
+    "title": "ChatGPT 说得太抽象、不好懂？用自定义指令先让它把话说清楚",
+    "date": "2026-11-19",
+    "summary": "不用每条对话都重复说“说人话”。把偏好写进自定义指令，所有对话都会按这个来。",
+    "points": [
+      "网页或桌面到 Settings → Personalization，打开 Enable customization，在 Custom Instructions 里写上希望它怎么回答；手机则在 Settings 的 Customize ChatGPT 里设置。",
+      "可以先用一句简单、需要时再展开的偏好作为起点；免费和 Go 最多 1,500 字，Plus 和 Pro 等套餐最多 5,000 字。",
+      "性格设置只影响说话方式，会和自定义指令、记忆一起生效；改指令对之后的回答生效，旧对话记录不会被改写。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-custom-instructions-plain-language/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-custom-instructions-plain-language/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-custom-instructions-plain-language.md"
+  },
+  {
     "slug": "chatgpt-dots-ios-reply-terra-pro",
     "title": "ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来",
     "date": "2026-11-19",
@@ -73,6 +103,21 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-jiangzhi-explained/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-jiangzhi-explained.md"
+  },
+  {
+    "slug": "chatgpt-live-dictation-guide",
+    "title": "ChatGPT 语音输入怎么用？边说边出字，10 分钟限制取消了",
+    "date": "2026-11-19",
+    "summary": "对着麦克风说就行，文字一边说一边出来，发送前还能改。Voice 是对着聊，Dictation 是把一段话写成可编辑的文字再发出去。",
+    "points": [
+      "Live Dictation 会在你说话的同时把语音转成文字，点波形可显示或隐藏文本；官方原先的 10 分钟录音限制已经取消。",
+      "所有 ChatGPT 套餐都在推送，覆盖 iOS、Android、网页和桌面版；它和 Voice 语音对话不是一回事，发送前可以先改转写结果。",
+      "功能正在全球推送，不是每个账号都会立刻看到。听写音频随对话保留，删除对话后一般会在 30 天内删除；可在 Data controls 里停止分享音频。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-live-dictation-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-live-dictation-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-live-dictation-guide.md"
   },
   {
     "slug": "chatgpt-payment-failed",
@@ -135,6 +180,21 @@
     "file": "knowledge/guides/chatgpt-plus-vs-api-cost.md"
   },
   {
+    "slug": "chatgpt-pro-api-credits-claim",
+    "title": "ChatGPT Pro 每月送的 API 额度怎么领？在 Billing 里激活一次，当月不用就过期",
+    "date": "2026-11-19",
+    "summary": "这笔钱不会自动进你的 API 账户，要先手动关联一次；领完只在那一个 API 组织里能用，当期账单周期结束前用不完就作废。",
+    "points": [
+      "Pro 100、200、500 每月分别附带 100、200、500 美元 API 额度；Plus 和免费试用没有。",
+      "订阅付费满 7 天后，在 ChatGPT 的 Settings → Billing 找到 API credits，选一个你本人拥有、邮箱相同的 API 组织确认，激活一次以后每月自动到账。",
+      "额度当期不用就过期，不结转；只能用于普通 API 调用，通过 API Key 跑 Codex 不算在内，也不会给 ChatGPT 或 Codex 加额度。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-pro-api-credits-claim.md"
+  },
+  {
     "slug": "chatgpt-pro-recharge",
     "title": "ChatGPT Pro 国内充值指南：适合谁、方案标识与购买检查",
     "date": "2026-11-19",
@@ -178,6 +238,21 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-safety/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-safety/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-recharge-safety.md"
+  },
+  {
+    "slug": "chatgpt-reset-password",
+    "title": "ChatGPT 忘记密码、登不上怎么办？网页重置，设置里也能改",
+    "date": "2026-11-19",
+    "summary": "先走登录页的 Forgot password，邮件里重设就行。已经能登录的，直接在 Settings → Account 里改。用第三方账号注册的，没有 ChatGPT 密码可重置。",
+    "points": [
+      "忘记密码时，退出登录或开无痕窗口，在登录页输入邮箱或手机号，点 Forgot password?，按重置邮件设置新密码。",
+      "已经能登录时，到 Settings → Account 添加或更新密码；改的是整个 OpenAI 账号的密码，API 平台也会一起变。",
+      "用 Google、微软或 Apple 注册且从未设过 OpenAI 密码的，没有可重置的密码，继续用原来的按钮登录即可。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-reset-password/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-reset-password/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-reset-password.md"
   },
   {
     "slug": "chatgpt-slides-collaboration-guide",
@@ -270,21 +345,6 @@
     "file": "knowledge/guides/gpt-5-5-retirement-october-14.md"
   },
   {
-    "slug": "chatgpt-change-email",
-    "title": "ChatGPT 能改邮箱吗？能，在网页设置里改，这几种情况改不了",
-    "date": "2026-11-18",
-    "summary": "换邮箱不用换账号，聊天记录和会员都还在。但旧邮箱如果已经收不到信，这条路就走不通，客服也不会破例。",
-    "points": [
-      "可以自己改：网页版 Settings → Account → Email，验证新邮箱后生效，聊天记录、项目和订阅都保留。",
-      "改不了的几种情况：旧邮箱收不到信、账号属于 Business / Enterprise / Edu 工作区或用 SSO 登录、在手机 App 里操作。",
-      "有次数限制：注册满 24 小时才能改，24 小时内最多 2 次，终身最多 20 次；旧邮箱会一直留给这个账号。"
-    ],
-    "category": "产品动态",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-change-email/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-change-email/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-change-email.md"
-  },
-  {
     "slug": "chatgpt-gpt-6-2-how-to-use",
     "title": "ChatGPT 怎么用上 GPT-6.2？只在 Work 和 Codex 里，哪些套餐有、找不到模型先查这 4 处",
     "date": "2026-11-18",
@@ -329,21 +389,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-pro-100-200-500.md"
-  },
-  {
-    "slug": "chatgpt-pro-api-credits-claim",
-    "title": "ChatGPT Pro 每月送的 API 额度怎么领？在 Billing 里激活一次，当月不用就过期",
-    "date": "2026-11-18",
-    "summary": "这笔钱不会自动进你的 API 账户，要先手动关联一次；领完只在那一个 API 组织里能用，当期账单周期结束前用不完就作废。",
-    "points": [
-      "Pro 100、200、500 每月分别附带 100、200、500 美元 API 额度；Plus 和免费试用没有。",
-      "订阅付费满 7 天后，在 ChatGPT 的 Settings → Billing 找到 API credits，选一个你本人拥有、邮箱相同的 API 组织确认，激活一次以后每月自动到账。",
-      "额度当期不用就过期，不结转；只能用于普通 API 调用，通过 API Key 跑 Codex 不算在内，也不会给 ChatGPT 或 Codex 加额度。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-pro-api-credits-claim.md"
   },
   {
     "slug": "chatgpt-renewal-payment-failed",
