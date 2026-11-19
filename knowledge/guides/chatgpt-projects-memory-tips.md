@@ -1,6 +1,6 @@
 # ChatGPT 额度总不够用？Projects、记忆与模型档位的 9 个省额度用法
 
-更新于 2026-10-15 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 结合 OpenAI Projects、记忆、文件和套餐页，整理 9 个减少重复上下文、合理切换模型和节省 ChatGPT Plus 额度的方法。
 

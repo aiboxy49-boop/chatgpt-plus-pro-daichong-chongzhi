@@ -1,6 +1,6 @@
 # ChatGPT 套餐升级指南：Free、Plus 与 Pro 如何选择和升级
 
-更新于 2026-08-31 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 从 Free 升级 Plus，或从 Plus 调整到 Pro 前，先确认当前订阅、账户归属、付款方式和实际可用的升级路径。
 

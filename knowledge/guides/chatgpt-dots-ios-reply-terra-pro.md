@@ -1,6 +1,6 @@
 # ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来
 
-更新于 2026-11-11 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 ChatGPT Learn（2026-11-04）：dots 支持 iOS 通知内直接回复、从其他 App 分享内容、Action 按钮打开 dot；GPT-6.1 Terra 成为 dots 驱动模型之一；桌面端浏览器与文件标注逐步推出；Windows 本地线程更稳。可用：Pro 100/200/500（18 岁以上，EEA/英国/瑞士除外）与 Business Premium；Enterprise/Edu/Healthcare 11 月 18 日起默认开启。和 dot 对话不计入 ChatGPT 用量；它发起的 Work/Codex 任务照常计入。
 

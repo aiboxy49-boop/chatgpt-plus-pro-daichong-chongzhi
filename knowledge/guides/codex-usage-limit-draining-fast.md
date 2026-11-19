@@ -1,6 +1,6 @@
 # Codex 额度掉得特别快？费额度的设置自查、异常反馈和省额度办法
 
-更新于 2026-11-18 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 依据 ChatGPT Learn《Pricing》（核对于 2026-11-18）：Fast 模式下 GPT-6.2 Astra / Sol 按 2 倍、更早的模型按 2.5 倍消耗包含额度；Ultrafast 下 GPT-6.2 按 6 倍、GPT-6 Astra 和 GPT-6.1 Sol 按 8 倍；图片生成平均快 3 到 5 倍；云端任务可能比本地消息更费；MCP 服务器和过大的 AGENTS.md 也会增加上下文。剩余额度在用量面板和 CLI 的 /status 查看；怀疑计量异常用 /feedback 提交；额度不够可买积分、用 API Key 跑本地对话或升级 Pro。
 

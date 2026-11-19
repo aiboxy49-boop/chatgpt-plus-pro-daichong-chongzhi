@@ -1,6 +1,6 @@
 # ChatGPT 突然变笨了？先按这份清单排查额度、模型和账号状态
 
-更新于 2026-11-18 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 “ChatGPT 降智”不是 OpenAI 已确认的技术术语。依据 OpenAI 帮助中心《GPT-6 and other models in ChatGPT》《Suspicious Activity Alert》（核对于 2026-11-18）：Plus 和 Pro 网页版选 Instant 时不会自动加思考，难题要手动选 Medium 或 High；思考额度用完后 ChatGPT 可能换其他可用模型继续；额度用完本身不代表账号受限；可疑活动警告可能影响部分功能；为防滥用触发的临时使用限制，ChatGPT 会通知你。
 

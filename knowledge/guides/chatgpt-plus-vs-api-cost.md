@@ -1,6 +1,6 @@
 # ChatGPT Plus 20 美元和 API 按量付费，普通人怎么选？成本拆解
 
-更新于 2026-11-18 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 ChatGPT Plus 是固定月费，API 按输入输出 token 计费；本文用官方 GPT-6 API 价格做示例估算，并说明订阅登录与 API Key 在 Codex 中的差异。
 

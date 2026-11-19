@@ -1,6 +1,6 @@
 # GPT-6 免费也能用了，ChatGPT Plus 还值得开吗？2026 选购思路
 
-更新于 2026-10-11 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 GPT-6 已覆盖免费和付费 ChatGPT，但 Luna、Sol、Astra 的定位与额度不同；本文按官方资料解释 Plus、Pro 和免费版的选择。
 

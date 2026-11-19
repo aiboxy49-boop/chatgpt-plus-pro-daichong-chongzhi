@@ -1,6 +1,6 @@
 # GPT-5.5 10 月 14 日从 ChatGPT、Work 和 Codex 退役：迁移检查清单
 
-更新于 2026-10-11 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 GPT-5.5 将于 2026 年 10 月 14 日从 ChatGPT、Work 和 Codex 退役，但 OpenAI API 不受影响；本文给出迁移前的配置检查清单。
 
