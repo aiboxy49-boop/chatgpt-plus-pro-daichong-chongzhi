@@ -1,4 +1,4 @@
-# ChatGPT 额度总不够用？Projects、记忆与模型档位的 9 个省额度用法
+# ChatGPT 额度不够用怎么办？用 Projects、记忆和模型档位省用量
 
 更新于 2026-11-19 · AI Boxy
 

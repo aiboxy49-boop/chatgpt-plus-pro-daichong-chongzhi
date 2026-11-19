@@ -16,7 +16,7 @@
   },
   {
     "slug": "chatgpt-account-security",
-    "title": "ChatGPT 弹出“可疑活动警告”怎么办？Plus/Pro 账号保号指南",
+    "title": "ChatGPT 弹出可疑活动警告怎么办？改密码、开 2FA 和保号步骤",
     "date": "2026-11-19",
     "summary": "整理 OpenAI 对可疑活动警告、共享账号和安全设置的官方建议，并说明本人账户充值时不应交出密码、验证码或恢复码。",
     "points": [
@@ -76,7 +76,7 @@
   },
   {
     "slug": "chatgpt-gpt-6-intelligent-ui-2026",
-    "title": "GPT-6 免费也能用了，ChatGPT Plus 还值得开吗？2026 选购思路",
+    "title": "GPT-6 免费版也能用，Plus 和 Pro 还多哪些能力？2026 选购说明",
     "date": "2026-11-19",
     "summary": "GPT-6 已覆盖免费和付费 ChatGPT，但 Luna、Sol、Astra 的定位与额度不同；本文按官方资料解释 Plus、Pro 和免费版的选择。",
     "points": [
@@ -120,6 +120,21 @@
     "file": "knowledge/guides/chatgpt-live-dictation-guide.md"
   },
   {
+    "slug": "chatgpt-paid-order-next-step",
+    "title": "ChatGPT 付了款还没到账？查订单、补交信息和确认充值结果",
+    "date": "2026-11-19",
+    "summary": "付款后尚未到账时，应先查看订单状态。待提交信息的订单可从详情继续操作，充值中的订单等待结果，人工处理中的订单由客服跟进；不要把再次支付作为默认排查步骤。",
+    "points": [
+      "先查订单是否确认付款，再区分待提交信息、充值中、人工处理或已完成。",
+      "登录用户可从历史订单打开详情继续；游客可使用原订单查询凭证返回订单。",
+      "订单已完成但账号未更新时，先核对充值邮箱和账户状态，再联系客服，避免重复下单。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-paid-order-next-step/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-paid-order-next-step/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-paid-order-next-step.md"
+  },
+  {
     "slug": "chatgpt-payment-failed",
     "title": "ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式",
     "date": "2026-11-19",
@@ -133,6 +148,21 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-payment-failed.md"
+  },
+  {
+    "slug": "chatgpt-plans-comparison-2026",
+    "title": "ChatGPT Plus 和 Pro 有什么区别？2026 套餐对比与选购建议",
+    "date": "2026-11-19",
+    "summary": "先按任务比较模型、工具和额度，再看价格；无广告、本地与云端 Codex、Pro 档位各有区别。",
+    "points": [
+      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
+      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
+      "GPT-6.2 Astra 和 Sol 只在 Work 与 Codex 中，Plus 起可用，Free/Go 不在名单内；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast，Pro 500 两个模型都有。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
   },
   {
     "slug": "chatgpt-plus-price-comparison",
@@ -180,6 +210,22 @@
     "file": "knowledge/guides/chatgpt-plus-vs-api-cost.md"
   },
   {
+    "slug": "chatgpt-pro-100-200-500",
+    "title": "ChatGPT Pro 多少钱？100、200、500 的额度和 Ultrafast 怎么选",
+    "date": "2026-11-19",
+    "summary": "三档 Pro 的核心能力接近，主要差别在使用额度和 Ultrafast；GPT-6.2 发布后，Pro 200 也能开 Sol 的 Ultrafast。",
+    "points": [
+      "Pro 100、200、500 的官方月费分别为 100、200、500 美元，只能月付。",
+      "Pro 500 的 GPT-6.2 Astra 和 Sol 都有 Ultrafast；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast；Pro 100 没有。",
+      "Pro 200 额度下调已取消，所有 Pro 200 订阅统一为同一份 Work 和 Codex 额度。",
+      "三档每月分别附带 100、200、500 美元 API 额度，付费满 7 天后在 Billing 里激活一次，当期不用就过期。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-pro-100-200-500.md"
+  },
+  {
     "slug": "chatgpt-pro-api-credits-claim",
     "title": "ChatGPT Pro 每月送的 API 额度怎么领？在 Billing 里激活一次，当月不用就过期",
     "date": "2026-11-19",
@@ -196,7 +242,7 @@
   },
   {
     "slug": "chatgpt-pro-recharge",
-    "title": "ChatGPT Pro 国内充值指南：适合谁、方案标识与购买检查",
+    "title": "ChatGPT Pro 国内怎么充值？适合谁、档位标识和到账检查",
     "date": "2026-11-19",
     "summary": "Pro 面向高频使用，购买前应先证明自己确实需要更高使用余量，而不是只被“更高倍数”标签吸引。",
     "points": [
@@ -211,7 +257,7 @@
   },
   {
     "slug": "chatgpt-projects-memory-tips",
-    "title": "ChatGPT 额度总不够用？Projects、记忆与模型档位的 9 个省额度用法",
+    "title": "ChatGPT 额度不够用怎么办？用 Projects、记忆和模型档位省用量",
     "date": "2026-11-19",
     "summary": "结合 OpenAI Projects、记忆、文件和套餐页，整理 9 个减少重复上下文、合理切换模型和节省 ChatGPT Plus 额度的方法。",
     "points": [
@@ -223,6 +269,21 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-projects-memory-tips/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-projects-memory-tips/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-projects-memory-tips.md"
+  },
+  {
+    "slug": "chatgpt-recharge-guide",
+    "title": "ChatGPT充值怎么做？官方绑卡、礼品卡和人民币代充怎么选",
+    "date": "2026-11-19",
+    "summary": "先核对账户和原订阅平台，再选择付款方式；官方直付条件、App 内购和本站订单分别检查。",
+    "points": [
+      "官方网页订阅需要核对发卡地区、账单信息及可能出现的银行验证；本币价格以结账页为准。",
+      "App Store、Google Play 与网页的订阅管理分开，已有订阅先确认原平台，换设备不必重买。",
+      "选择本站服务时核对商品、本人账户与订单，支付宝、微信付款后仍需确认账户套餐与账期。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-recharge-guide.md"
   },
   {
     "slug": "chatgpt-recharge-safety",
@@ -271,7 +332,7 @@
   },
   {
     "slug": "chatgpt-topup-methods-compared",
-    "title": "国内怎么开 ChatGPT Plus？四种付款方式与本人账户充值对比",
+    "title": "国内怎么买 ChatGPT Plus？官方绑卡、商店、礼品卡和本人账户代充对比",
     "date": "2026-11-19",
     "summary": "国内开通 ChatGPT Plus/Pro 时，对比海外卡、礼品卡、虚拟卡和本人账户充值四种路径，并强调订单、凭证、退款和密码边界。",
     "points": [
@@ -286,7 +347,7 @@
   },
   {
     "slug": "chatgpt-upgrade-guide",
-    "title": "ChatGPT 套餐升级指南：Free、Plus 与 Pro 如何选择和升级",
+    "title": "ChatGPT 怎么升级套餐？Plus 升 Pro、升级前检查和到账核对",
     "date": "2026-11-19",
     "summary": "从 Free 升级 Plus，或从 Plus 调整到 Pro 前，先确认当前订阅、账户归属、付款方式和实际可用的升级路径。",
     "points": [
@@ -301,7 +362,7 @@
   },
   {
     "slug": "codex-recharge",
-    "title": "Codex 充值是什么意思：套餐关系、国内购买与使用前检查",
+    "title": "Codex 怎么充值、怎么买？和 ChatGPT Plus/Pro 的关系与到账检查",
     "date": "2026-11-19",
     "summary": "“Codex 充值”通常不是给单个模型充余额，而是为能够使用 Codex 的账户准备合适订阅并确认功能已经开放。",
     "points": [
@@ -358,37 +419,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-gpt-6-2-how-to-use/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-gpt-6-2-how-to-use/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-gpt-6-2-how-to-use.md"
-  },
-  {
-    "slug": "chatgpt-plans-comparison-2026",
-    "title": "ChatGPT Plus、Pro、Go 到底买哪个？2026 套餐对比与选购建议",
-    "date": "2026-11-18",
-    "summary": "先按任务比较模型、工具和额度，再看价格；无广告、本地与云端 Codex、Pro 档位各有区别。",
-    "points": [
-      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
-      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
-      "GPT-6.2 Astra 和 Sol 只在 Work 与 Codex 中，Plus 起可用，Free/Go 不在名单内；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast，Pro 500 两个模型都有。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
-  },
-  {
-    "slug": "chatgpt-pro-100-200-500",
-    "title": "ChatGPT Pro 100、200、500 怎么选？额度、Ultrafast 与续费说明",
-    "date": "2026-11-18",
-    "summary": "三档 Pro 的核心能力接近，主要差别在使用额度和 Ultrafast；GPT-6.2 发布后，Pro 200 也能开 Sol 的 Ultrafast。",
-    "points": [
-      "Pro 100、200、500 的官方月费分别为 100、200、500 美元，只能月付。",
-      "Pro 500 的 GPT-6.2 Astra 和 Sol 都有 Ultrafast；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast；Pro 100 没有。",
-      "Pro 200 额度下调已取消，所有 Pro 200 订阅统一为同一份 Work 和 Codex 额度。",
-      "三档每月分别附带 100、200、500 美元 API 额度，付费满 7 天后在 Billing 里激活一次，当期不用就过期。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-pro-100-200-500.md"
   },
   {
     "slug": "chatgpt-renewal-payment-failed",
@@ -524,21 +554,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-desktop-codex-phone-verification/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-desktop-codex-phone-verification/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-desktop-codex-phone-verification.md"
-  },
-  {
-    "slug": "chatgpt-recharge-guide",
-    "title": "国内 ChatGPT 充值方式完整指南：代充、礼品卡与海外卡怎么选",
-    "date": "2026-11-17",
-    "summary": "先核对账户和原订阅平台，再选择付款方式；官方直付条件、App 内购和本站订单分别检查。",
-    "points": [
-      "官方网页订阅需要核对发卡地区、账单信息及可能出现的银行验证；本币价格以结账页为准。",
-      "App Store、Google Play 与网页的订阅管理分开，已有订阅先确认原平台，换设备不必重买。",
-      "选择本站服务时核对商品、本人账户与订单，支付宝、微信付款后仍需确认账户套餐与账期。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-recharge-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-recharge-guide.md"
   },
   {
     "slug": "chatgpt-ads-free-go-plus-ad-free",
@@ -734,21 +749,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/openai-pierre-acquisition-codex/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/openai-pierre-acquisition-codex/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/openai-pierre-acquisition-codex.md"
-  },
-  {
-    "slug": "chatgpt-paid-order-next-step",
-    "title": "ChatGPT 付款成功后怎么继续充值？提交信息、查单与到账确认",
-    "date": "2026-09-13",
-    "summary": "付款后尚未到账时，应先查看订单状态。待提交信息的订单可从详情继续操作，充值中的订单等待结果，人工处理中的订单由客服跟进；不要把再次支付作为默认排查步骤。",
-    "points": [
-      "先查订单是否确认付款，再区分待提交信息、充值中、人工处理或已完成。",
-      "登录用户可从历史订单打开详情继续；游客可使用原订单查询凭证返回订单。",
-      "订单已完成但账号未更新时，先核对充值邮箱和账户状态，再联系客服，避免重复下单。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-paid-order-next-step/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-paid-order-next-step/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-paid-order-next-step.md"
   },
   {
     "slug": "chatgpt-pro-20x-pause-renewal-guide",

@@ -1,4 +1,4 @@
-# ChatGPT 套餐升级指南：Free、Plus 与 Pro 如何选择和升级
+# ChatGPT 怎么升级套餐？Plus 升 Pro、升级前检查和到账核对
 
 更新于 2026-11-19 · AI Boxy
 

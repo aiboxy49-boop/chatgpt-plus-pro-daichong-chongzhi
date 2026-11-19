@@ -1,6 +1,6 @@
-# ChatGPT Pro 100、200、500 怎么选？额度、Ultrafast 与续费说明
+# ChatGPT Pro 多少钱？100、200、500 的额度和 Ultrafast 怎么选
 
-更新于 2026-11-18 · AI Boxy
+更新于 2026-11-19 · AI Boxy
 
 三档 Pro 的核心能力接近，主要差别在使用额度和 Ultrafast；GPT-6.2 发布后，Pro 200 也能开 Sol 的 Ultrafast。
 
