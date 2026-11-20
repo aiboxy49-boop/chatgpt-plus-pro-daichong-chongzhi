@@ -1,8 +1,8 @@
 # ChatGPT Plus 和 Pro 有什么区别？2026 套餐对比与选购建议
 
-更新于 2026-11-19 · AI Boxy
+更新于 2026-11-20 · AI Boxy
 
-先按任务比较模型、工具和额度，再看价格；无广告、本地与云端 Codex、Pro 档位各有区别。
+核对于2026年11月17日：Free/Go符合条件的账户可能显示广告，Plus及以上无广告；Free/Go可用本地Codex，Codex Cloud向符合条件的Plus及更高套餐开放。Pro 100/200/500的额度与Ultrafast不同；12月起Plus、Pro、Business的ChatGPT与Codex将按token共用额度，Instant聊天不计入。 2026年11月18日补充：GPT-6.2 Astra与Sol于美国时间11月17日发布，仅在ChatGPT Work与Codex中向Plus、Pro、Business、Enterprise、Edu开放（Enterprise/Edu需管理员启用），Free/Go不在名单内；Plus每5小时本地消息估算Astra 6–50、Sol 17–180；Pro 200首次获得GPT-6.2 Sol的Ultrafast，Pro 500两个模型都有，GPT-6.2 Ultrafast包含额度按6倍消耗。
 
 ## 要点
 

@@ -1,5 +1,170 @@
 [
   {
+    "slug": "chatgpt-account-deactivated-appeal",
+    "title": "ChatGPT 账号被停用、登不上怎么办？先看邮件分清情况，再按官方入口申诉",
+    "date": "2026-11-20",
+    "summary": "依据 OpenAI 帮助中心《Troubleshooting deleted or deactivated account errors》与《OpenAI account warnings, safety suspensions, and closures》（信息核对于 2026-11-20）。登录时出现 You do not have an account because it has been deleted or deactivated，表示账号已被本人删除或被 OpenAI 停用；先查邮箱（含垃圾邮件）里的官方邮件。本人删除的账号无法恢复，彻底删除（不是停用）30 天后可用同一邮箱重新注册。因未完成身份验证被停用的，按验证邮件操作或联系支持重发链接；错过意大利年龄验证截止的，可登录后在停用页面选 Verify your age，或通过 Stripe 重新开始验证。账号警告本身不等于暂停或关闭；临时安全暂停会限制一段时间的访问，按暂停邮件操作并可用邮件里的申诉链接申诉；永久关闭可用关闭通知邮件里的申诉链接，拿不到邮件时用账号关闭申诉表单；没收到任何邮件却登不上，通过帮助中心联系 OpenAI Support。申诉时提供用户 ID 和组织 ID（如有）、相关使用情况和认为有误的理由、疑似被盗用的时间范围、已采取的安全措施；有不认识的扣款时，提供每笔日期、金额、卡号后 4 位、卡组织、发卡行、账单邮编，不要提供完整卡号和安全码。疑似被他人登录时，改密码并轮换泄露的 API Key。暂停期间的退款或取消问题可发邮件到 support@openai.com。",
+    "points": [
+      "看到 deleted or deactivated，先去邮箱（含垃圾箱）找 OpenAI 的通知，分清是自己删的、待完成验证，还是被警告、暂停或关闭。",
+      "申诉走通知邮件里的链接；找不到邮件就用帮助中心的申诉表单；什么邮件都没收到，就直接联系 OpenAI Support。",
+      "申诉写清用户 ID、使用情况和你认为有误的理由；涉及陌生扣款时只给卡号后 4 位，不给完整卡号和安全码。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-account-deactivated-appeal/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-account-deactivated-appeal/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-account-deactivated-appeal.md"
+  },
+  {
+    "slug": "chatgpt-account-security",
+    "title": "ChatGPT 弹出可疑活动警告怎么办？改密码、开 2FA 和保号步骤",
+    "date": "2026-11-20",
+    "summary": "整理 OpenAI 对可疑活动警告、共享账号和安全设置的官方建议，并说明本人账户充值时不应交出密码、验证码或恢复码。",
+    "points": [
+      "可疑活动警告常见诱因包括异常登录、活动突增和并发会话增加。",
+      "官方建议改成唯一强密码、开启 2FA、退出所有设备并使用可信网络排查。",
+      "充值和使用都应保持本人账户、一人一号，保存订单与账单凭证。"
+    ],
+    "category": "账号与使用",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-account-security/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-account-security/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-account-security.md"
+  },
+  {
+    "slug": "chatgpt-dots-ios-reply-terra-pro",
+    "title": "ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来",
+    "date": "2026-11-20",
+    "summary": "ChatGPT Learn（2026-11-04）：dots 支持 iOS 通知内直接回复、从其他 App 分享内容、Action 按钮打开 dot；GPT-6.1 Terra 成为 dots 驱动模型之一；桌面端浏览器与文件标注逐步推出；Windows 本地线程更稳。可用：Pro 100/200/500（18 岁以上，EEA/英国/瑞士除外）与 Business Premium；Enterprise/Edu/Healthcare 11 月 18 日起默认开启。2026-11-19 起 dots 开始在少量 Plus 用户中测试，无法申请，帮助中心仍写目前面向 Pro。和 dot 对话不计入 ChatGPT 用量；它发起的 Work/Codex 任务照常计入。",
+    "points": [
+      "11 月 4 日更新：iPhone 上能在通知里直接回 dot，Terra 成为驱动模型之一。",
+      "目前面向 Pro 100 / 200 / 500；11 月 19 日起少量 Plus 用户开始测试，无法申请。",
+      "和 dot 聊天不占 ChatGPT 额度；它派出去的 Work / Codex 任务照常算。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-ios-reply-terra-pro/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-ios-reply-terra-pro/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-dots-ios-reply-terra-pro.md"
+  },
+  {
+    "slug": "chatgpt-mfa-lost-phone-recovery",
+    "title": "ChatGPT 两步验证手机丢了、换手机收不到验证码？按这个顺序找回登录",
+    "date": "2026-11-20",
+    "summary": "依据 OpenAI 帮助中心《Managing multi-factor authentication (MFA)》（信息核对于 2026-11-20）。MFA 开启后在 ChatGPT 和 API Platform 等 OpenAI 服务中都生效。可用方式包括验证器 App（如 Google Authenticator、Authy）、推送通知、短信或 WhatsApp 的 6 位验证码、通行密钥；可用选项因设备、国家/地区、账号类型和注册方式而异。在 ChatGPT 设置 → Security and login → Multi-factor authentication (MFA) 中开启或管理。开启多个方式时默认先用最安全的一种，登录时仍可选择任一已开启的方式。邮箱不是常规 MFA 方式；丢失某种方式时先选其他已配置的方式；全部无法使用时联系 OpenAI Support，需完成核验，可能需要几天；核验通过后支持人员会提供一次性邮箱恢复登录，这只是临时恢复，不是长期的邮箱验证方式；登录后必须添加可用的备用 MFA 方式，或在 Settings > Security and login 关闭 MFA；该恢复机会只有一次，用过后再丢失 MFA 方式时不再提供。加入 Advanced Account Security 且丢失通行密钥或安全密钥的，用恢复密钥找回。开启 MFA 不会自动退出其他设备；可在 Security and login 选择 Log out of all devices，全部退出最多可能需要 30 分钟。",
+    "points": [
+      "先在登录页换用账号里其他已开启的验证方式，比如通行密钥、推送或短信。",
+      "所有方式都用不了，就联系 OpenAI Support 做核验，可能要几天；通过后会给一次性邮箱恢复登录。",
+      "恢复机会只有一次。登录后立刻补一个备用验证方式，平时最好同时开两种。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-mfa-lost-phone-recovery/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-mfa-lost-phone-recovery/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-mfa-lost-phone-recovery.md"
+  },
+  {
+    "slug": "chatgpt-payment-failed",
+    "title": "ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式",
+    "date": "2026-11-20",
+    "summary": "付款失败后最危险的动作是连续重复提交；先分清银行拒付、账户状态、账单信息还是订单同步问题。",
+    "points": [
+      "先查看银行和官方页面的明确提示，不要在短时间连续尝试多张卡。",
+      "核对卡片类型、余额、境外线上支付、账单信息和账户地区是否符合要求。",
+      "已经扣款但订阅没更新时，先保存证据并等待订单确认，不要立即重复付款。"
+    ],
+    "category": "充值与付款",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-payment-failed.md"
+  },
+  {
+    "slug": "chatgpt-plans-comparison-2026",
+    "title": "ChatGPT Plus 和 Pro 有什么区别？2026 套餐对比与选购建议",
+    "date": "2026-11-20",
+    "summary": "核对于2026年11月17日：Free/Go符合条件的账户可能显示广告，Plus及以上无广告；Free/Go可用本地Codex，Codex Cloud向符合条件的Plus及更高套餐开放。Pro 100/200/500的额度与Ultrafast不同；12月起Plus、Pro、Business的ChatGPT与Codex将按token共用额度，Instant聊天不计入。 2026年11月18日补充：GPT-6.2 Astra与Sol于美国时间11月17日发布，仅在ChatGPT Work与Codex中向Plus、Pro、Business、Enterprise、Edu开放（Enterprise/Edu需管理员启用），Free/Go不在名单内；Plus每5小时本地消息估算Astra 6–50、Sol 17–180；Pro 200首次获得GPT-6.2 Sol的Ultrafast，Pro 500两个模型都有，GPT-6.2 Ultrafast包含额度按6倍消耗。",
+    "points": [
+      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
+      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
+      "GPT-6.2 Astra 和 Sol 只在 Work 与 Codex 中，Plus 起可用，Free/Go 不在名单内；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast，Pro 500 两个模型都有。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
+  },
+  {
+    "slug": "chatgpt-plus-dots-test-new-mobile-design",
+    "title": "ChatGPT Plus 也能用 dots 了？11 月 19 日开始小范围测试，手机版新界面先给 Pro",
+    "date": "2026-11-20",
+    "summary": "依据 OpenAI 帮助中心 ChatGPT release notes（2026-11-19 条目 New mobile experience for ChatGPT 与 Health 条目）及 9to5Mac 2026-11-19 报道（信息核对于 2026-11-20）。ChatGPT 手机 App 推出新体验：你的 dot 有自己的标签页，可把 Codex、Projects、Images 等常用功能固定到标签栏。先面向 dots 可用地区、18 岁及以上的 ChatGPT Pro 用户，不包括欧洲经济区（含欧盟）、英国、瑞士和韩国；少量符合条件的 Plus 用户也会看到新体验；部分符合条件的 Pro 用户会默认启用；设置里出现 New ChatGPT design 时可自行开关。同日 release notes 写明 dots 目前面向 Pro 用户。9to5Mac 报道：负责 Codex 和 ChatGPT 工程的 Thibault Sottiaux 当天在 X 上表示开始向少量 ChatGPT Plus 用户测试 dots，并将 dots 推广到所有 ChatGPT Business Standard 用户；报道称 Plus 和 Business Standard 的 dots 用量额度是否与更高档位相同尚不清楚。",
+    "points": [
+      "11 月 19 日起，OpenAI 开始让少量 Plus 用户测试 dots，属于小范围测试，不能自己申请开通。",
+      "手机 App 新界面：dot 有单独标签页，Codex、Projects、Images 可固定到底部标签栏；先给 18 岁以上的 Pro 用户。",
+      "设置里出现 New ChatGPT design 就能自己开关；没出现说明还没推到你的账号。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-dots-test-new-mobile-design/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-dots-test-new-mobile-design/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plus-dots-test-new-mobile-design.md"
+  },
+  {
+    "slug": "chatgpt-pro-api-credits-claim",
+    "title": "ChatGPT Pro 每月送的 API 额度怎么领？在 Billing 里激活一次，当月不用就过期",
+    "date": "2026-11-20",
+    "summary": "依据 OpenAI 开发者文档《API credits for ChatGPT subscribers》和帮助中心《API credits benefit for eligible ChatGPT subscriptions》（核对于 2026-11-19）：符合条件的 ChatGPT Pro 订阅可领取免费 API 额度，Pro 100 美元档每月 100 美元、200 美元档每月 200 美元、500 美元档每月 500 美元；Business 按付费席位计算，工作区每月上限 500 美元。Plus、免费试用和赠送订阅不符合条件，Enterprise、Edu 也不在范围内。领取条件：付费订阅已生效至少 7 天；你是该订阅的所有者，同时是接收额度的 API 组织的所有者；ChatGPT 账号与 API 账号使用同一个邮箱；还需要能管理该 API 组织的账单。新用户可关联个人 API 组织，在 ChatGPT 中领取前不必先完成 API 开通流程。领取路径一：在 ChatGPT 打开 Settings → Billing，找到 API credits 权益并开始领取，核对接收的 API 组织（拥有多个时选择一个），确认激活。路径二：用同一邮箱登录 API Platform，选择要关联的组织，在 Billing 中找到该权益，选择订阅并确认。一个订阅只能关联一个 API 组织，一个 API 组织也只能有一个这样的有效关联，要更换需联系支持。激活一次即可，之后每次续费自动发放；第一期按当期剩余时间折算；每期额度在订阅账单周期结束时过期，不结转。使用 API 不需要绑定付款方式，免费额度优先于购买的额度扣减；全部用完且无余额时请求返回 HTTP 429 和 credit_balance_exhausted。额度覆盖关联组织的 Responses、Chat Completions、Agents、Decisions、GPT-Live 与 Realtime、Images 及内置工具等付费 API 用量；不覆盖通过 API Key 使用 Codex，也不会增加 ChatGPT 或登录状态下 Codex 的使用额度。额度不会解除速率、模型和组织限制。升级 Pro 档位可能获得当期折算的额外额度；取消订阅不会收回已发放额度，但之后不再发放；降级到 Plus、Go 或 Free 会在账单周期结束时解除关联；批准的全额退款会移除对应的未使用额度。看不到权益时，帮助中心建议检查套餐、订阅付费天数、所选工作区和账号邮箱，并说明可用性还取决于开放批次和国家或地区。",
+    "points": [
+      "Pro 100、200、500 每月分别附带 100、200、500 美元 API 额度；Plus 和免费试用没有。",
+      "订阅付费满 7 天后，在 ChatGPT 的 Settings → Billing 找到 API credits，选一个你本人拥有、邮箱相同的 API 组织确认，激活一次以后每月自动到账。",
+      "额度当期不用就过期，不结转；只能用于普通 API 调用，通过 API Key 跑 Codex 不算在内，也不会给 ChatGPT 或 Codex 加额度。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-pro-api-credits-claim.md"
+  },
+  {
+    "slug": "chatgpt-upgrade-guide",
+    "title": "ChatGPT 怎么升级套餐？Plus 升 Pro、升级前检查和到账核对",
+    "date": "2026-11-20",
+    "summary": "从 Free 升级 Plus，或从 Plus 调整到 Pro 前，先确认当前订阅、账户归属、付款方式和实际可用的升级路径。",
+    "points": [
+      "Free 升级 Plus、Free 升级 Pro 与 Plus 升级 Pro 是不同场景，付款前应先核对账户当前套餐。",
+      "已有订阅不应默认可以叠加、折算或退还剩余时间，续费与升级也需要分开确认。",
+      "页面没有升级入口或账户状态不一致时，先停止重复付款，并携带必要信息咨询客服。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-upgrade-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-upgrade-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-upgrade-guide.md"
+  },
+  {
+    "slug": "codex-stops-early-long-tasks-fix",
+    "title": "Codex compact 报错 error running remote compact task 怎么办？长任务中途停止时升级 CLI，用 /goal 和新对话接着做",
+    "date": "2026-11-20",
+    "summary": "按 OpenAI 官方文档整理 Codex 长任务的做法。ChatGPT Learn《Long-running work》：多步骤工作要给出明确结果、约束和完成标准；在 ChatGPT 桌面 App、Codex CLI 和 IDE 扩展里输入 /goal 启动 Goal 模式，目标文字既是第一条提示也是完成标准，可暂停、恢复、编辑、清除；需要决定时会暂停，沙箱和审批策略不变；目标不清楚时先用 /plan。Codex 配置参考：features.goals（持久目标和自动继续）为稳定功能、默认开启；model_auto_compact_token_limit 控制自动压缩阈值。CLI 命令文档：/compact 用摘要替换早期对话释放上下文，/new 和 /clear 开新对话，/fork 复制当前对话，/status 查看上下文用量，/init 生成 AGENTS.md。AGENTS.md 文档：Codex 每次开工前读取全局 ~/.codex/AGENTS.md 和项目内 AGENTS.md。Best practices：提示词写清 Goal、Context、Constraints、Done when；一个连贯的工作单元用一个对话。Troubleshooting：对话卡住时先看是否在等审批，再用更小、更聚焦的提示开新对话。Codex CLI 0.169.0 changelog：计划模式选 Yes, clear context and implement 会把完整计划交给新会话。截至北京时间 2026-11-14 09:00，OpenAI 状态页未登记 11 月 13–14 日的 Codex 故障。",
+    "points": [
+      "Codex 中途停下多半是任务没写清完成标准、在等审批，或对话太长触发了上下文压缩。",
+      "用 /goal 写清「做到什么算完」，把「做完整个阶段再汇报」写进 AGENTS.md。",
+      "看到 error running remote compact task bad request，先升级 CLI，重试 /compact，还不行就写交接摘要后 /new。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-stops-early-long-tasks-fix/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-stops-early-long-tasks-fix/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-stops-early-long-tasks-fix.md"
+  },
+  {
+    "slug": "codex-usage-limit-model-reasoning-guide",
+    "title": "Codex 额度烧得太快怎么办？按任务选模型和推理强度，让 Plus 的 5 小时额度撑得更久",
+    "date": "2026-11-20",
+    "summary": "依据 OpenAI 官方文档（ChatGPT Learn Pricing、Models、Developer commands、AGENTS.md 指南，帮助中心 Managing usage with GPT-6 Astra in Work and Codex、About ChatGPT Pro tiers、Using Codex with your ChatGPT plan）：Codex 与 ChatGPT Work 共用套餐额度，额度不对应固定消息数，消耗取决于模型、上下文、推理强度、工具调用、检索、缓存和速度模式，相似任务也可能消耗不同。Plus 同时有 5 小时窗口和每周窗口，两者都要有余量才能继续；5 小时窗口从上一个窗口结束后的第一条消息开始计算。官方给出的 Plus 每 5 小时本地消息估算：GPT-6 Astra 5–45、GPT-6.1 Sol 15–160、GPT-6.1 Terra 35–285、GPT-6 Sol 15–150、GPT-6 Luna 350–3,000，云端任务更费，另有每周限制。Pro 100/200/500 目前在 Work 和 Codex 中没有 5 小时限制，但仍有包含额度，Pro 200 多于 Pro 100，Pro 500 最多。Ultrafast：Pro 500 的 GPT-6.2 Astra 和 Sol 都能用；Pro 200 以官方 GPT-6.2 Ultrafast 分档说明为准，目前开放的是 Sol；帮助中心《About ChatGPT Pro tiers》仍写 Ultrafast 只在 Pro 500，以账号里实际能选到的速度模式为准。Codex 积分费率（每百万输入/缓存输入/输出 token）：GPT-6.2 Astra 200/10/1,000，GPT-6.2 Sol 与 GPT-6.1 Sol 均为 50/2.5/250，GPT-6 Astra 250/25/1,250，GPT-6.1 Terra 25/1.25/125，GPT-6 Luna 2.5/0.25/12.5。GPT-6.2 的 Fast 按 2 倍、Ultrafast 按 6 倍消耗包含额度；旧模型 Fast 仍按 2.5 倍、Ultrafast 仍按 8 倍。生图平均快 3–5 倍。推理强度越高用 token 越多，官方建议从默认档开始，Astra 从 Light（CLI 为 low）起步，Luna 从 High 起步，并指出 Astra 低强度可能优于 Sol 高强度、提高强度不一定更好。剩余额度在 Settings → Usage 查看，CLI 中用 /status 或 /usage。省额度官方建议：精简提示、只给相关文件、限定输出、用嵌套 AGENTS.md 控制注入的上下文（project_doc_max_bytes 默认 32 KiB）、关闭不用的 MCP；CLI 的 /compact 可把早前对话压缩成摘要。新开聊天、切换模型都不会恢复额度；额度用完可等重置、购买积分或升级。",
+    "points": [
+      "Codex 额度不是按条数算的：模型、推理强度、上下文和工具调用都会影响消耗，看起来差不多的任务，用掉的额度也可能差很多。",
+      "日常写代码先用 GPT-6.2 Sol 默认档，简单重复的活交给 Terra 或 Luna，真难的问题才上 Astra。GPT-6.2 Sol 积分费率和 6.1 Sol 一样，Plus 每 5 小时估算更高。",
+      "Plus 有 5 小时和每周两道限制；Pro 三档目前没有 5 小时限制，每天靠 Codex 干活的人升级 Pro 更省心。"
+    ],
+    "category": "Codex",
+    "source_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/codex-usage-limit-model-reasoning-guide.md"
+  },
+  {
     "slug": "avoid-chatgpt-jiangzhi",
     "title": "不想被 ChatGPT “降智”？8 个习惯减少额度和账号问题",
     "date": "2026-11-19",
@@ -13,21 +178,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/avoid-chatgpt-jiangzhi/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/avoid-chatgpt-jiangzhi.md"
-  },
-  {
-    "slug": "chatgpt-account-security",
-    "title": "ChatGPT 弹出可疑活动警告怎么办？改密码、开 2FA 和保号步骤",
-    "date": "2026-11-19",
-    "summary": "整理 OpenAI 对可疑活动警告、共享账号和安全设置的官方建议，并说明本人账户充值时不应交出密码、验证码或恢复码。",
-    "points": [
-      "可疑活动警告常见诱因包括异常登录、活动突增和并发会话增加。",
-      "官方建议改成唯一强密码、开启 2FA、退出所有设备并使用可信网络排查。",
-      "充值和使用都应保持本人账户、一人一号，保存订单与账单凭证。"
-    ],
-    "category": "账号与使用",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-account-security/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-account-security/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-account-security.md"
   },
   {
     "slug": "chatgpt-change-email",
@@ -58,21 +208,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-custom-instructions-plain-language/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-custom-instructions-plain-language/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-custom-instructions-plain-language.md"
-  },
-  {
-    "slug": "chatgpt-dots-ios-reply-terra-pro",
-    "title": "ChatGPT dots 又更新了：iPhone 通知里直接回复、Terra 加入驱动，Pro 用户怎么用起来",
-    "date": "2026-11-19",
-    "summary": "ChatGPT Learn（2026-11-04）：dots 支持 iOS 通知内直接回复、从其他 App 分享内容、Action 按钮打开 dot；GPT-6.1 Terra 成为 dots 驱动模型之一；桌面端浏览器与文件标注逐步推出；Windows 本地线程更稳。可用：Pro 100/200/500（18 岁以上，EEA/英国/瑞士除外）与 Business Premium；Enterprise/Edu/Healthcare 11 月 18 日起默认开启。和 dot 对话不计入 ChatGPT 用量；它发起的 Work/Codex 任务照常计入。",
-    "points": [
-      "11 月 4 日更新：iPhone 上能在通知里直接回 dot，Terra 成为驱动模型之一。",
-      "个人用户要 Pro 100 / 200 / 500 才有 dots，Plus 没有。",
-      "和 dot 聊天不占 ChatGPT 额度；它派出去的 Work / Codex 任务照常算。"
-    ],
-    "category": "产品动态",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-ios-reply-terra-pro/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-dots-ios-reply-terra-pro/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-dots-ios-reply-terra-pro.md"
   },
   {
     "slug": "chatgpt-gpt-6-intelligent-ui-2026",
@@ -135,36 +270,6 @@
     "file": "knowledge/guides/chatgpt-paid-order-next-step.md"
   },
   {
-    "slug": "chatgpt-payment-failed",
-    "title": "ChatGPT 付款失败怎么办：信用卡被拒、重复尝试与替代方式",
-    "date": "2026-11-19",
-    "summary": "付款失败后最危险的动作是连续重复提交；先分清银行拒付、账户状态、账单信息还是订单同步问题。",
-    "points": [
-      "先查看银行和官方页面的明确提示，不要在短时间连续尝试多张卡。",
-      "核对卡片类型、余额、境外线上支付、账单信息和账户地区是否符合要求。",
-      "已经扣款但订阅没更新时，先保存证据并等待订单确认，不要立即重复付款。"
-    ],
-    "category": "充值与付款",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-payment-failed.md"
-  },
-  {
-    "slug": "chatgpt-plans-comparison-2026",
-    "title": "ChatGPT Plus 和 Pro 有什么区别？2026 套餐对比与选购建议",
-    "date": "2026-11-19",
-    "summary": "先按任务比较模型、工具和额度，再看价格；无广告、本地与云端 Codex、Pro 档位各有区别。",
-    "points": [
-      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
-      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
-      "GPT-6.2 Astra 和 Sol 只在 Work 与 Codex 中，Plus 起可用，Free/Go 不在名单内；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast，Pro 500 两个模型都有。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
-  },
-  {
     "slug": "chatgpt-plus-price-comparison",
     "title": "ChatGPT Plus 费用比较：官方直付、礼品卡、代充与共享账号成本",
     "date": "2026-11-19",
@@ -224,21 +329,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-100-200-500/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-pro-100-200-500.md"
-  },
-  {
-    "slug": "chatgpt-pro-api-credits-claim",
-    "title": "ChatGPT Pro 每月送的 API 额度怎么领？在 Billing 里激活一次，当月不用就过期",
-    "date": "2026-11-19",
-    "summary": "这笔钱不会自动进你的 API 账户，要先手动关联一次；领完只在那一个 API 组织里能用，当期账单周期结束前用不完就作废。",
-    "points": [
-      "Pro 100、200、500 每月分别附带 100、200、500 美元 API 额度；Plus 和免费试用没有。",
-      "订阅付费满 7 天后，在 ChatGPT 的 Settings → Billing 找到 API credits，选一个你本人拥有、邮箱相同的 API 组织确认，激活一次以后每月自动到账。",
-      "额度当期不用就过期，不结转；只能用于普通 API 调用，通过 API Key 跑 Codex 不算在内，也不会给 ChatGPT 或 Codex 加额度。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-api-credits-claim/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-pro-api-credits-claim.md"
   },
   {
     "slug": "chatgpt-pro-recharge",
@@ -346,21 +436,6 @@
     "file": "knowledge/guides/chatgpt-topup-methods-compared.md"
   },
   {
-    "slug": "chatgpt-upgrade-guide",
-    "title": "ChatGPT 怎么升级套餐？Plus 升 Pro、升级前检查和到账核对",
-    "date": "2026-11-19",
-    "summary": "从 Free 升级 Plus，或从 Plus 调整到 Pro 前，先确认当前订阅、账户归属、付款方式和实际可用的升级路径。",
-    "points": [
-      "Free 升级 Plus、Free 升级 Pro 与 Plus 升级 Pro 是不同场景，付款前应先核对账户当前套餐。",
-      "已有订阅不应默认可以叠加、折算或退还剩余时间，续费与升级也需要分开确认。",
-      "页面没有升级入口或账户状态不一致时，先停止重复付款，并携带必要信息咨询客服。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-upgrade-guide/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-upgrade-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-upgrade-guide.md"
-  },
-  {
     "slug": "codex-recharge",
     "title": "Codex 怎么充值、怎么买？和 ChatGPT Plus/Pro 的关系与到账检查",
     "date": "2026-11-19",
@@ -449,21 +524,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/codex-steer-vs-queue-follow-up/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/codex-steer-vs-queue-follow-up/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/codex-steer-vs-queue-follow-up.md"
-  },
-  {
-    "slug": "codex-usage-limit-model-reasoning-guide",
-    "title": "Codex 额度烧得太快怎么办？按任务选模型和推理强度，让 Plus 的 5 小时额度撑得更久",
-    "date": "2026-11-18",
-    "summary": "额度不是按条数算的。模型、推理强度和上下文大小，决定了同一个任务要花掉多少。",
-    "points": [
-      "Codex 额度不是按条数算的：模型、推理强度、上下文和工具调用都会影响消耗，看起来差不多的任务，用掉的额度也可能差很多。",
-      "日常写代码先用 GPT-6.2 Sol 默认档，简单重复的活交给 Terra 或 Luna，真难的问题才上 Astra。GPT-6.2 Sol 积分费率和 6.1 Sol 一样，Plus 每 5 小时估算更高。",
-      "Plus 有 5 小时和每周两道限制；Pro 三档目前没有 5 小时限制，每天靠 Codex 干活的人升级 Pro 更省心。"
-    ],
-    "category": "Codex",
-    "source_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-usage-limit-model-reasoning-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/codex-usage-limit-model-reasoning-guide.md"
   },
   {
     "slug": "gpt-6-2-astra-vs-sol",
@@ -629,21 +689,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-wallet-dots-pro-purchases/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-wallet-dots-pro-purchases/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-wallet-dots-pro-purchases.md"
-  },
-  {
-    "slug": "codex-stops-early-long-tasks-fix",
-    "title": "Codex 长任务改几个文件就停下来汇报？用 /goal、AGENTS.md 和新对话让它一口气做完一个阶段",
-    "date": "2026-11-14",
-    "summary": "按 OpenAI 官方文档整理 Codex 长任务的做法。ChatGPT Learn《Long-running work》：多步骤工作要给出明确结果、约束和完成标准；在 ChatGPT 桌面 App、Codex CLI 和 IDE 扩展里输入 /goal 启动 Goal 模式，目标文字既是第一条提示也是完成标准，可暂停、恢复、编辑、清除；需要决定时会暂停，沙箱和审批策略不变；目标不清楚时先用 /plan。Codex 配置参考：features.goals（持久目标和自动继续）为稳定功能、默认开启；model_auto_compact_token_limit 控制自动压缩阈值。CLI 命令文档：/compact 用摘要替换早期对话释放上下文，/new 和 /clear 开新对话，/fork 复制当前对话，/status 查看上下文用量，/init 生成 AGENTS.md。AGENTS.md 文档：Codex 每次开工前读取全局 ~/.codex/AGENTS.md 和项目内 AGENTS.md。Best practices：提示词写清 Goal、Context、Constraints、Done when；一个连贯的工作单元用一个对话。Troubleshooting：对话卡住时先看是否在等审批，再用更小、更聚焦的提示开新对话。Codex CLI 0.169.0 changelog：计划模式选 Yes, clear context and implement 会把完整计划交给新会话。截至北京时间 2026-11-14 09:00，OpenAI 状态页未登记 11 月 13–14 日的 Codex 故障。",
-    "points": [
-      "Codex 中途停下多半是任务没写清完成标准、在等审批，或对话太长触发了上下文压缩。",
-      "用 /goal 写清「做到什么算完」，把「做完整个阶段再汇报」写进 AGENTS.md。",
-      "遇到 remote compact 报错或对话越来越慢，让它写交接摘要，开新对话接着做。"
-    ],
-    "category": "Codex",
-    "source_url": "https://www.ai2boxy.com/zh/guides/codex-stops-early-long-tasks-fix/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/codex-stops-early-long-tasks-fix/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/codex-stops-early-long-tasks-fix.md"
   },
   {
     "slug": "chatgpt-dots-custom-instructions-rules",
