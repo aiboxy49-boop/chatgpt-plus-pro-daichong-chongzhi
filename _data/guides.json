@@ -1,5 +1,96 @@
 [
   {
+    "slug": "chatgpt-invoice-receipt-download",
+    "title": "ChatGPT 发票和收据在哪下载？网页、苹果、谷歌订阅各看一个地方",
+    "date": "2026-11-21",
+    "summary": "依据 OpenAI 帮助中心《Finding past ChatGPT invoices》《Updating billing information, Tax ID, and VAT ID》《Managing billing for ChatGPT and the API platform》《Invoice dates for ChatGPT and API billing》，以及 Apple、Google Play 官方购买记录说明（信息核对于 2026-11-21）。Go、Plus、Pro 网页订阅：ChatGPT 网页版 Settings > Billing > Invoices，点 View 打开，View all 查看更多。Invoices 缺失或为空时，确认登录的是正确账号或工作区；App Store、Google Play 订阅的收据不会出现在这里；Billing 控件缺失可换浏览器登录同一账号；网页订阅仍找不到可带账期和发票号联系 Support。Business：Workspace settings > Billing > Invoices，或 Manage plan > Payment method 进入账单门户，只有所有者能看发票。Apple：用付款的 Apple 账号，App Store → 头像 → Apps & Purchase History → Purchase History，每次续费 Apple 会发邮件收据。Google Play：Play 商店 → 头像 → Payments & subscriptions → Budget & history。账单信息和 Tax ID 在 Settings → Billing → Billing information → Edit 修改，只影响以后的发票；已开出的发票可通过帮助中心聊天申请复核，需提供发票号、要改的内容和希望显示的名称、地址、税号，由客服审核是否重开。月付订阅按订阅日每月扣费，发票日期不能修改。ChatGPT 和 API 平台账单分开。",
+    "points": [
+      "网页订阅：ChatGPT 网页版 Settings → Billing → Invoices，点 View 打开，View all 看更早的。",
+      "苹果或谷歌订阅：发票不在 ChatGPT 里，到 App Store 或 Google Play 的购买记录里找，用的是当初付款的商店账号。",
+      "要加公司抬头或税号，先在 Billing information 里改好，只对以后的发票生效；已开的发票要找客服申请复核。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-invoice-receipt-download/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-invoice-receipt-download/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-invoice-receipt-download.md"
+  },
+  {
+    "slug": "chatgpt-plans-comparison-2026",
+    "title": "ChatGPT Plus 和 Pro 区别对照表：2026 套餐对比，思考档、额度和价格一次看懂",
+    "date": "2026-11-21",
+    "summary": "核对于2026年11月17日：Free/Go符合条件的账户可能显示广告，Plus及以上无广告；Free/Go可用本地Codex，Codex Cloud向符合条件的Plus及更高套餐开放。Pro 100/200/500的额度与Ultrafast不同；12月起Plus、Pro、Business的ChatGPT与Codex将按token共用额度，Instant聊天不计入。 2026年11月18日补充：GPT-6.2 Astra与Sol于美国时间11月17日发布，仅在ChatGPT Work与Codex中向Plus、Pro、Business、Enterprise、Edu开放（Enterprise/Edu需管理员启用），Free/Go不在名单内；Plus每5小时本地消息估算Astra 6–50、Sol 17–180；Pro 200首次获得GPT-6.2 Sol的Ultrafast，Pro 500两个模型都有，GPT-6.2 Ultrafast包含额度按6倍消耗。 2026年11月21日补充：按帮助中心《GPT-6 and other models in ChatGPT》，Chat思考档Plus有Medium和High，没有Extra High和Pro档；Pro、Business、Enterprise三档都有；Free和Go使用GPT-5.6 Luna及Think。GPT-6 Pro在Chat里面向Pro $100、Pro $200、Business、Enterprise，有使用上限。Space自11月20日起向18岁以上Plus用户全球推送。",
+    "points": [
+      "Chat 思考档：Plus 有 Medium、High；Pro 再多 Extra High 和 Pro 档。11 月 20 日起 Space 也推给了 Plus。",
+      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
+      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
+      "GPT-6.2 Astra 和 Sol 只在 Work 与 Codex 中，Plus 起可用，Free/Go 不在名单内；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast，Pro 500 两个模型都有。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
+  },
+  {
+    "slug": "chatgpt-plus-dots-test-new-mobile-design",
+    "title": "ChatGPT Plus 也能用 dots 了？11 月 19 日开始小范围测试，手机版新界面先给 Pro",
+    "date": "2026-11-21",
+    "summary": "依据 OpenAI 帮助中心 ChatGPT release notes（2026-11-19 条目 New mobile experience for ChatGPT 与 Health 条目）及 9to5Mac 2026-11-19 报道（信息核对于 2026-11-20）。ChatGPT 手机 App 推出新体验：你的 dot 有自己的标签页，可把 Codex、Projects、Images 等常用功能固定到标签栏。先面向 dots 可用地区、18 岁及以上的 ChatGPT Pro 用户，不包括欧洲经济区（含欧盟）、英国、瑞士和韩国；少量符合条件的 Plus 用户也会看到新体验；部分符合条件的 Pro 用户会默认启用；设置里出现 New ChatGPT design 时可自行开关。同日 release notes 写明 dots 目前面向 Pro 用户。9to5Mac 报道：负责 Codex 和 ChatGPT 工程的 Thibault Sottiaux 当天在 X 上表示开始向少量 ChatGPT Plus 用户测试 dots，并将 dots 推广到所有 ChatGPT Business Standard 用户；报道称 Plus 和 Business Standard 的 dots 用量额度是否与更高档位相同尚不清楚。",
+    "points": [
+      "11 月 19 日起，OpenAI 开始让少量 Plus 用户测试 dots，属于小范围测试，不能自己申请开通。",
+      "手机 App 新界面：dot 有单独标签页，Codex、Projects、Images 可固定到底部标签栏；先给 18 岁以上的 Pro 用户。",
+      "设置里出现 New ChatGPT design 就能自己开关；没出现说明还没推到你的账号。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-dots-test-new-mobile-design/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-dots-test-new-mobile-design/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-plus-dots-test-new-mobile-design.md"
+  },
+  {
+    "slug": "chatgpt-pro-to-plus-downgrade",
+    "title": "ChatGPT Pro 换回 Plus 会少什么？Chat 里没有 Extra High 和 Pro 档，日常够不够用",
+    "date": "2026-11-21",
+    "summary": "依据 OpenAI 帮助中心《GPT-6 and other models in ChatGPT》《About ChatGPT Pro tiers》《Canceling your ChatGPT subscription》《Chat and file retention in ChatGPT》、ChatGPT release notes（2026-11-17、11-19、11-20），ChatGPT Learn《Pricing》，以及开发者文档《API credits for ChatGPT subscribers》（信息核对于 2026-11-21）。Chat 思考档按套餐：Plus 有 Medium 和 High，没有 Extra High 和 Pro；Pro、Business、Enterprise 都有。选 GPT-6 时 Instant 到 Extra High 由 GPT-6 Sol 驱动，Pro 档用 GPT-6 Pro（GPT-6 Astra 驱动）。GPT-6 Pro 在 Chat 里面向 Pro $100、Pro $200、Business、Enterprise，有使用上限；Pro $100 上 GPT-6 Pro 和 GPT-5.6 Sol Pro 共用一份周额度。Plus 在 Work 和 Codex 中包含 GPT-6 Astra；GPT-6.2 Astra、Sol 在 Plus、Pro 的 Work 和 Codex 中可选。Codex：Plus 按 5 小时估算本地消息数（GPT-6.2 Sol 17–180、GPT-6.2 Astra 6–50），Pro 目前没有 5 小时限制，可能有周限制；Pro 100 和 Pro 500 的 Work/Codex 额度翻倍，Plus 不变；Ultrafast 只在 Pro 500。dots 目前面向 Pro，11-19 起少量 Plus 测试。Space 11-20 起推向 Plus。改套餐在 Settings → My Plan；取消后可用到当期结束、到期前可撤销。降到 Plus 等不符合条件的套餐时，API 额度关联在账期结束时移除，已发放额度可用到过期。普通对话保存在账号里直到删除，项目文件保留到项目或文件被删除。",
+    "points": [
+      "Plus 在 Chat 里有 Medium、High 两个思考档，没有 Extra High 和 Pro 档，也用不了 GPT-6 Pro。",
+      "Work 和 Codex 里 Plus 照样能选 GPT-6.2 Astra 和 Sol，区别在额度：Plus 有 5 小时限制，Pro 目前没有。",
+      "换回前先把当期的 Pro API 额度用掉；聊天记录和项目都不会因为换套餐丢掉。"
+    ],
+    "category": "套餐选择",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-to-plus-downgrade/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-pro-to-plus-downgrade/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-pro-to-plus-downgrade.md"
+  },
+  {
+    "slug": "chatgpt-slides-collaboration-guide",
+    "title": "ChatGPT Slides 怎么用？多人协作改 PPT、点选修改与导出指南",
+    "date": "2026-11-21",
+    "summary": "ChatGPT Slides 在 Space 中支持从对话和文件生成幻灯片、多人同时编辑、评论及点选 Request edits 修改；网页端可导出 PowerPoint、PDF 和 Google Slides。使用前提是账号已启用 Space；据 ChatGPT release notes，Space 自 2026 年 11 月 20 日起向 18 岁以上的 Plus 用户全球推送，Slides 正向有 Space 权限的账号推出。",
+    "points": [
+      "11 月 20 日起 Space 向 18 岁以上的 Plus 用户全球推送；账号有了 Space，就能在里面用 Slides，入口以账号内显示为准。",
+      "可直接编辑文字、图片、形状、表格和图表，也能选中元素后用 Request edits 提出修改。",
+      "幻灯片目前支持查看和编辑权限，暂无单独的仅评论角色；网页端可导出 PowerPoint、PDF 和 Google Slides。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-slides-collaboration-guide/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-slides-collaboration-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-slides-collaboration-guide.md"
+  },
+  {
+    "slug": "chatgpt-space-plus-rollout",
+    "title": "ChatGPT Plus 能用 Space 了：11 月 20 日起替换 Library，页面、幻灯片能多人一起改",
+    "date": "2026-11-21",
+    "summary": "依据 OpenAI 帮助中心 ChatGPT release notes（2026-11-20 条目 ChatGPT Space is rolling out to Plus）、《Getting started with Space in ChatGPT》、《Using Library to manage files in ChatGPT》及 Engadget 2026-11-20 报道（信息核对于 2026-11-21）。Space 自 11 月 20 日起向 18 岁及以上 Plus 用户全球推送：可与 ChatGPT 一起创建交互式页面和演示文稿，邀请有 Space 权限的人共同编辑，页面和幻灯片可设置为根据已连接的应用和工具自动更新；可在评论里 @ChatGPT 改内容，有 dot 的用户可邀请 dot 协作。打开共享页面或演示文稿需要有查看权限，并登录有 Space 权限的 Plus、Pro、Business 或 Enterprise 账号；Free 用户打不开，没有公开链接。Space 在侧边栏取代 Library，成为页面、幻灯片、图片和上传文件的新位置；Projects 保持独立。网页、桌面版、iOS 和 Android 都能创建和编辑页面。桌面版看不到 Space 先更新，仍看不到说明尚未推到该账号。Slides 正向有 Space 权限的账号推出，Sheets 即将推出。用完 Plus 消息额度后仍可手动编辑页面。共享页面不会让他人看到你的私人聊天或记忆，但写进页面的内容所有能查看的人都能看到；页面里上传的文件跟随页面权限，链接到别处的文件不自动开放原文件权限。删除页面会连同子页面一起移入回收站。Engadget 报道 Space 于 9 月 Dev Day 首发，当时面向 Pro、Business、Enterprise；新建 Space 时可选模板，并可配合计划任务使用。",
+    "points": [
+      "11 月 20 日起，Space 向 18 岁以上的 Plus 用户全球推送，侧边栏的 Library 换成了 Space，文件、图片都在里面。",
+      "Plus 可以建页面和幻灯片，邀请别人一起改，还能让内容按连接的应用自动更新。",
+      "对方也得是有 Space 权限的 Plus、Pro、Business 或 Enterprise 账号才能打开共享页面，Free 打不开，没有公开链接。"
+    ],
+    "category": "产品动态",
+    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-space-plus-rollout/",
+    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-space-plus-rollout/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
+    "file": "knowledge/guides/chatgpt-space-plus-rollout.md"
+  },
+  {
     "slug": "chatgpt-account-deactivated-appeal",
     "title": "ChatGPT 账号被停用、登不上怎么办？先看邮件分清情况，再按官方入口申诉",
     "date": "2026-11-20",
@@ -103,36 +194,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-payment-failed/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-payment-failed.md"
-  },
-  {
-    "slug": "chatgpt-plans-comparison-2026",
-    "title": "ChatGPT Plus 和 Pro 有什么区别？2026 套餐对比与选购建议",
-    "date": "2026-11-20",
-    "summary": "核对于2026年11月17日：Free/Go符合条件的账户可能显示广告，Plus及以上无广告；Free/Go可用本地Codex，Codex Cloud向符合条件的Plus及更高套餐开放。Pro 100/200/500的额度与Ultrafast不同；12月起Plus、Pro、Business的ChatGPT与Codex将按token共用额度，Instant聊天不计入。 2026年11月18日补充：GPT-6.2 Astra与Sol于美国时间11月17日发布，仅在ChatGPT Work与Codex中向Plus、Pro、Business、Enterprise、Edu开放（Enterprise/Edu需管理员启用），Free/Go不在名单内；Plus每5小时本地消息估算Astra 6–50、Sol 17–180；Pro 200首次获得GPT-6.2 Sol的Ultrafast，Pro 500两个模型都有，GPT-6.2 Ultrafast包含额度按6倍消耗。",
-    "points": [
-      "Plus 官方为每月20美元；Pro有100、200、500美元三档，Go及本地币种价格看结账页。",
-      "Free/Go可能显示广告；Plus、Pro、Business、Enterprise与Edu不显示广告。本地Codex与Codex Cloud的资格要分开核对。",
-      "GPT-6.2 Astra 和 Sol 只在 Work 与 Codex 中，Plus 起可用，Free/Go 不在名单内；Pro 200 首次获得 GPT-6.2 Sol 的 Ultrafast，Pro 500 两个模型都有。"
-    ],
-    "category": "套餐选择",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plans-comparison-2026/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plans-comparison-2026.md"
-  },
-  {
-    "slug": "chatgpt-plus-dots-test-new-mobile-design",
-    "title": "ChatGPT Plus 也能用 dots 了？11 月 19 日开始小范围测试，手机版新界面先给 Pro",
-    "date": "2026-11-20",
-    "summary": "依据 OpenAI 帮助中心 ChatGPT release notes（2026-11-19 条目 New mobile experience for ChatGPT 与 Health 条目）及 9to5Mac 2026-11-19 报道（信息核对于 2026-11-20）。ChatGPT 手机 App 推出新体验：你的 dot 有自己的标签页，可把 Codex、Projects、Images 等常用功能固定到标签栏。先面向 dots 可用地区、18 岁及以上的 ChatGPT Pro 用户，不包括欧洲经济区（含欧盟）、英国、瑞士和韩国；少量符合条件的 Plus 用户也会看到新体验；部分符合条件的 Pro 用户会默认启用；设置里出现 New ChatGPT design 时可自行开关。同日 release notes 写明 dots 目前面向 Pro 用户。9to5Mac 报道：负责 Codex 和 ChatGPT 工程的 Thibault Sottiaux 当天在 X 上表示开始向少量 ChatGPT Plus 用户测试 dots，并将 dots 推广到所有 ChatGPT Business Standard 用户；报道称 Plus 和 Business Standard 的 dots 用量额度是否与更高档位相同尚不清楚。",
-    "points": [
-      "11 月 19 日起，OpenAI 开始让少量 Plus 用户测试 dots，属于小范围测试，不能自己申请开通。",
-      "手机 App 新界面：dot 有单独标签页，Codex、Projects、Images 可固定到底部标签栏；先给 18 岁以上的 Pro 用户。",
-      "设置里出现 New ChatGPT design 就能自己开关；没出现说明还没推到你的账号。"
-    ],
-    "category": "产品动态",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-dots-test-new-mobile-design/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-plus-dots-test-new-mobile-design/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-plus-dots-test-new-mobile-design.md"
   },
   {
     "slug": "chatgpt-pro-api-credits-claim",
@@ -494,21 +555,6 @@
     "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-reset-password/",
     "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-reset-password/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
     "file": "knowledge/guides/chatgpt-reset-password.md"
-  },
-  {
-    "slug": "chatgpt-slides-collaboration-guide",
-    "title": "ChatGPT Slides 怎么用？多人协作改 PPT、点选修改与导出指南",
-    "date": "2026-11-19",
-    "summary": "ChatGPT Slides 在 Space 中支持从对话和文件生成幻灯片、多人同时编辑、评论及点选 Request edits 修改；网页端可导出 PowerPoint、PDF 和 Google Slides。使用前需确认账号已启用 Space，不能把升级套餐当作必然获得入口的保证。",
-    "points": [
-      "先确认账号已启用 Space；找不到入口时检查账号、工作区和客户端，不要只凭套餐名称判断。",
-      "可直接编辑文字、图片、形状、表格和图表，也能选中元素后用 Request edits 提出修改。",
-      "幻灯片目前支持查看和编辑权限，暂无单独的仅评论角色；网页端可导出 PowerPoint、PDF 和 Google Slides。"
-    ],
-    "category": "产品动态",
-    "source_url": "https://www.ai2boxy.com/zh/guides/chatgpt-slides-collaboration-guide/",
-    "cta_url": "https://www.ai2boxy.com/zh/guides/chatgpt-slides-collaboration-guide/?utm_source=githubpages&utm_medium=guide&utm_campaign=knowledge_summary",
-    "file": "knowledge/guides/chatgpt-slides-collaboration-guide.md"
   },
   {
     "slug": "codex-recharge",
